@@ -1,10 +1,10 @@
 {
-  "subject": "Easy Email Pro: Build production-ready emails faster",
+  "subject": "FunnyFuzzy: Cozy picks for pets and homes",
   "content": {
     "data": {
       "breakpoint": "480px",
       "globalAttributes": {
-        "font-family": "Inter, Arial, sans-serif"
+        "font-family": "Arial, Helvetica, sans-serif"
       },
       "blockAttributes": {
         "standard-paragraph": {
@@ -47,13 +47,13 @@
                   "padding-right": "28px",
                   "font-size": "24px",
                   "font-weight": "800",
-                  "color": "#14b8a6",
+                  "color": "#f97316",
                   "letter-spacing": "0px",
                   "align": "center"
                 },
                 "children": [
                   {
-                    "text": "Easy Email Pro"
+                    "text": "FunnyFuzzy"
                   }
                 ],
                 "id": "cCwG64F7LAa4LnCtmlfTQ"
@@ -77,16 +77,16 @@
                     "type": "standard-navbar-link",
                     "children": [
                       {
-                        "text": "FEATURES"
+                        "text": "DOG BEDS"
                       }
                     ],
                     "attributes": {
-                      "href": "https://www.easyemail.pro/",
+                      "href": "https://funnyfuzzy.com/",
                       "padding-left": "12px",
                       "padding-right": "12px",
                       "font-size": "13px",
                       "font-weight": "700",
-                      "color": "#14b8a6"
+                      "color": "#f97316"
                     },
                     "id": "HMAhL1hImBfWrGInEVfgQ"
                   },
@@ -95,16 +95,16 @@
                     "type": "standard-navbar-link",
                     "children": [
                       {
-                        "text": "TEMPLATES"
+                        "text": "SOFA COVERS"
                       }
                     ],
                     "attributes": {
-                      "href": "https://www.easyemail.pro/",
+                      "href": "https://funnyfuzzy.com/",
                       "padding-left": "12px",
                       "padding-right": "12px",
                       "font-size": "13px",
                       "font-weight": "700",
-                      "color": "#64748b"
+                      "color": "#4b5563"
                     },
                     "id": "69Y1eNcoZXPjTCBbg_wL4"
                   },
@@ -113,16 +113,16 @@
                     "type": "standard-navbar-link",
                     "children": [
                       {
-                        "text": "PRICING"
+                        "text": "TRAVEL"
                       }
                     ],
                     "attributes": {
-                      "href": "https://www.easyemail.pro/",
+                      "href": "https://funnyfuzzy.com/",
                       "padding-left": "12px",
                       "padding-right": "12px",
                       "font-size": "13px",
                       "font-weight": "700",
-                      "color": "#64748b"
+                      "color": "#4b5563"
                     },
                     "id": "0BQ7csrOL_3929Ytwfwl5"
                   },
@@ -131,16 +131,16 @@
                     "type": "standard-navbar-link",
                     "children": [
                       {
-                        "text": "DOCS"
+                        "text": "SALE"
                       }
                     ],
                     "attributes": {
-                      "href": "https://www.easyemail.pro/",
+                      "href": "https://funnyfuzzy.com/",
                       "padding-left": "12px",
                       "padding-right": "12px",
                       "font-size": "13px",
                       "font-weight": "700",
-                      "color": "#64748b"
+                      "color": "#4b5563"
                     },
                     "id": "kUmsqEhG9h4BOjfyAUxWT"
                   }
@@ -157,14 +157,14 @@
         "type": "standard-section",
         "data": {},
         "attributes": {
-          "padding-top": "56px",
-          "padding-bottom": "64px",
-          "background-image-enabled": false,
-          "background-url": "",
+          "padding-top": "72px",
+          "padding-bottom": "78px",
+          "background-image-enabled": true,
+          "background-url": "https://images.unsplash.com/photo-1601758174114-e711c0cbaa69?auto=format&fit=crop&w=900&q=80",
           "padding-left": "44px",
           "padding-right": "44px",
-          "background-size": "contain",
-          "background-color": "#f0fdfa",
+          "background-size": "cover",
+          "background-color": "#fff7ed",
           "background-position": "center center",
           "background-repeat": "no-repeat"
         },
@@ -180,9 +180,9 @@
                 "type": "standard-paragraph",
                 "data": {},
                 "attributes": {
-                  "color": "#0f172a",
+                  "color": "#1f2937",
                   "align": "center",
-                  "font-size": "40px",
+                  "font-size": "42px",
                   "line-height": "1.14",
                   "font-weight": "800"
                 },
@@ -194,7 +194,7 @@
                         "type": "html-block-node",
                         "children": [
                           {
-                            "text": "Build responsive emails"
+                            "text": "Comfort made for"
                           }
                         ],
                         "attributes": {},
@@ -207,7 +207,7 @@
                         "type": "html-block-node",
                         "children": [
                           {
-                            "text": "with Easy Email Pro"
+                            "text": "pets and people"
                           }
                         ],
                         "attributes": {},
@@ -230,7 +230,7 @@
                 "type": "standard-paragraph",
                 "data": {},
                 "attributes": {
-                  "color": "#475569",
+                  "color": "#374151",
                   "align": "center",
                   "font-size": "16px",
                   "line-height": "1.65",
@@ -245,7 +245,7 @@
                         "type": "html-block-node",
                         "children": [
                           {
-                            "text": "A focused email builder for reusable blocks,"
+                            "text": "Cozy beds, protective sofa covers, and travel-ready gear"
                           }
                         ],
                         "attributes": {},
@@ -258,7 +258,7 @@
                         "type": "html-block-node",
                         "children": [
                           {
-                            "text": "brand consistency, and production-ready HTML."
+                            "text": "in warm, playful styles inspired by FunnyFuzzy."
                           }
                         ],
                         "attributes": {},
@@ -285,16 +285,16 @@
                 "attributes": {
                   "padding-top": "22px",
                   "padding-bottom": "8px",
-                  "background-color": "#14b8a6",
+                  "background-color": "#f97316",
                   "align": "center",
-                  "href": "https://www.easyemail.pro/",
+                  "href": "https://funnyfuzzy.com/",
                   "color": "#ffffff",
-                  "border-radius": "6px",
+                  "border-radius": "999px",
                   "font-weight": "800"
                 },
                 "children": [
                   {
-                    "text": "TRY EASY EMAIL PRO"
+                    "text": "SHOP NEW ARRIVALS"
                   }
                 ],
                 "id": "9WMZiMTrnlvIlz0Qm_X6e"
@@ -305,14 +305,14 @@
         ],
         "id": "AyF0vxG0pAUKY_r7_h9ri",
         "mobileAttributes": {
-          "background-image-enabled": false,
+          "background-image-enabled": true,
           "background-position": "center center",
-          "background-size": "contain",
-          "background-url": "https://cdn.shopify.com/s/files/1/0863/8971/9346/files/editor.png?v=1764056838",
+          "background-size": "cover",
+          "background-url": "https://images.unsplash.com/photo-1601758174114-e711c0cbaa69?auto=format&fit=crop&w=900&q=80",
           "padding-left": "24px",
           "padding-right": "24px",
-          "padding-top": "40px",
-          "padding-bottom": "44px"
+          "padding-top": "54px",
+          "padding-bottom": "58px"
         }
       },
       {
@@ -343,13 +343,13 @@
                   "padding-right": "10px",
                   "font-size": "24px",
                   "font-weight": "800",
-                  "color": "#0f172a",
+                  "color": "#1f2937",
                   "align": "center",
                   "line-height": "1.25"
                 },
                 "children": [
                   {
-                    "text": "Everything your email workflow needs"
+                    "text": "Best-loved comfort for every corner"
                   }
                 ],
                 "id": "1WwA2t0UexmrbWLJSL9Bn"
@@ -388,10 +388,10 @@
                   "padding-bottom": "8px",
                   "padding-left": "0px",
                   "padding-right": "0px",
-                  "src": "https://cdn.shopify.com/s/files/1/0863/8971/9346/files/editor.png?v=1764056838",
+                  "src": "https://images.unsplash.com/photo-1561037404-61cd46aa615b?auto=format&fit=crop&w=300&q=80",
                   "fluid-on-mobile": "true",
-                  "width": "72px",
-                  "border-radius": "6px"
+                  "width": "110px",
+                  "border-radius": "8px"
                 },
                 "children": [
                   {
@@ -410,12 +410,12 @@
                   "padding-right": "10px",
                   "font-size": "16px",
                   "font-weight": "800",
-                  "color": "#0f172a",
+                  "color": "#1f2937",
                   "align": "center"
                 },
                 "children": [
                   {
-                    "text": "Visual editor"
+                    "text": "Calming dog beds"
                   }
                 ],
                 "id": "2UROuxGf3sInvEznB0NvE"
@@ -430,12 +430,12 @@
                   "padding-right": "10px",
                   "font-size": "13px",
                   "line-height": "1.55",
-                  "color": "#64748b",
+                  "color": "#6b7280",
                   "align": "center"
                 },
                 "children": [
                   {
-                    "text": "Build responsive layouts with a focused drag-and-drop workspace."
+                    "text": "Soft, supportive spots for deeper naps and better lounging."
                   }
                 ],
                 "id": "xFyOIU25dTseNRuUYXvRP"
@@ -460,10 +460,10 @@
                   "padding-bottom": "8px",
                   "padding-left": "0px",
                   "padding-right": "0px",
-                  "src": "https://cdn.shopify.com/s/files/1/0863/8971/9346/files/9qxr-ed3zemjzg1t-faia_image.png",
+                  "src": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=300&q=80",
                   "fluid-on-mobile": "true",
-                  "width": "72px",
-                  "border-radius": "6px"
+                  "width": "110px",
+                  "border-radius": "8px"
                 },
                 "children": [
                   {
@@ -482,12 +482,12 @@
                   "padding-right": "10px",
                   "font-size": "16px",
                   "font-weight": "800",
-                  "color": "#0f172a",
+                  "color": "#1f2937",
                   "align": "center"
                 },
                 "children": [
                   {
-                    "text": "Reusable blocks"
+                    "text": "Washable sofa covers"
                   }
                 ],
                 "id": "4558dIsb9oqP2dBqppLfj"
@@ -502,12 +502,12 @@
                   "padding-right": "10px",
                   "font-size": "13px",
                   "line-height": "1.55",
-                  "color": "#64748b",
+                  "color": "#6b7280",
                   "align": "center"
                 },
                 "children": [
                   {
-                    "text": "Turn common sections into consistent, on-brand components."
+                    "text": "Protect furniture with cozy textures that still look at home."
                   }
                 ],
                 "id": "adeBZuVsFjZuF-6JUxdLV"
@@ -532,10 +532,10 @@
                   "padding-bottom": "8px",
                   "padding-left": "0px",
                   "padding-right": "0px",
-                  "src": "https://cdn.shopify.com/s/files/1/0863/8971/9346/files/5dqwaoagcmphruegpcz3z_image.png",
+                  "src": "https://images.unsplash.com/photo-1517849845537-4d257902454a?auto=format&fit=crop&w=300&q=80",
                   "fluid-on-mobile": "true",
-                  "width": "72px",
-                  "border-radius": "6px"
+                  "width": "110px",
+                  "border-radius": "8px"
                 },
                 "children": [
                   {
@@ -554,12 +554,12 @@
                   "padding-right": "10px",
                   "font-size": "16px",
                   "font-weight": "800",
-                  "color": "#0f172a",
+                  "color": "#1f2937",
                   "align": "center"
                 },
                 "children": [
                   {
-                    "text": "Export-ready HTML"
+                    "text": "Travel essentials"
                   }
                 ],
                 "id": "PXFMbAkNPNaziZZLNxc7u"
@@ -574,12 +574,12 @@
                   "padding-right": "10px",
                   "font-size": "13px",
                   "line-height": "1.55",
-                  "color": "#64748b",
+                  "color": "#6b7280",
                   "align": "center"
                 },
                 "children": [
                   {
-                    "text": "Move from design to production with cleaner email output."
+                    "text": "Car seats, blankets, and carriers built for easy adventures."
                   }
                 ],
                 "id": "VJyuGuQPcxeD0D1IbWLt2"
@@ -598,7 +598,7 @@
           "padding-right": "30px",
           "padding-top": "36px",
           "padding-bottom": "40px",
-          "background-color": "#f8fafc"
+          "background-color": "#ffedd5"
         },
         "children": [
           {
@@ -617,7 +617,7 @@
                   "padding-left": "0px",
                   "padding-right": "0px",
                   "width": "300px",
-                  "src": "https://cdn.shopify.com/s/files/1/0863/8971/9346/files/xzjmuzkk7kekqbwfrbsis_feature-custom-block-code-preview.png",
+                  "src": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?auto=format&fit=crop&w=700&q=80",
                   "border-radius": "8px"
                 },
                 "children": [
@@ -661,7 +661,7 @@
                     "type": "html-block-node",
                     "children": [
                       {
-                        "text": "Design, reuse,"
+                        "text": "Fresh textures,"
                       }
                     ],
                     "attributes": {},
@@ -674,7 +674,7 @@
                     "type": "html-block-node",
                     "children": [
                       {
-                        "text": "and export faster"
+                        "text": "easy-clean comfort"
                       }
                     ],
                     "attributes": {},
@@ -701,7 +701,7 @@
                 },
                 "children": [
                   {
-                    "text": "Use a clean editing surface, shared design blocks, and responsive previews to keep every campaign consistent before it ships."
+                    "text": "Layer your home with plush pet beds, machine-washable covers, and bright everyday pieces designed for real pet life."
                   }
                 ],
                 "id": "vhkFMa8LQ-0i2Qzd5O10F"
@@ -716,16 +716,16 @@
                   "padding-bottom": "10px",
                   "padding-left": "0px",
                   "padding-right": "0px",
-                  "background-color": "#0f172a",
+                  "background-color": "#1f2937",
                   "align": "left",
-                  "href": "https://www.easyemail.pro/",
+                  "href": "https://funnyfuzzy.com/",
                   "color": "#ffffff",
-                  "border-radius": "6px",
+                  "border-radius": "999px",
                   "font-weight": "800"
                 },
                 "children": [
                   {
-                    "text": "SEE HOW IT WORKS"
+                    "text": "SHOP THE COLLECTION"
                   }
                 ],
                 "id": "rJ7rH33r92OmDTvJC2gOv"
@@ -752,9 +752,9 @@
             "type": "standard-section",
             "data": {},
             "attributes": {
-              "background-color": "#ccfbf1",
+              "background-color": "#fef3c7",
               "background-image-enabled": false,
-              "background-url": "https://www.easyemail.pro/_next/static/media/easy-email-pro.0x_s2ydn-o_g9.svg",
+              "background-url": "",
               "background-size": "contain",
               "border-radius": "8px",
               "background-position": "left center",
@@ -790,7 +790,7 @@
                         "type": "html-block-node",
                         "children": [
                           {
-                            "text": "Ready for a cleaner email builder?"
+                            "text": "Give your pet a cozier routine."
                           }
                         ],
                         "attributes": {},
@@ -803,7 +803,7 @@
                         "type": "html-block-node",
                         "children": [
                           {
-                            "text": "Create polished campaigns with Easy Email Pro."
+                            "text": "Explore FunnyFuzzy favorites today."
                           }
                         ],
                         "attributes": {},
@@ -838,15 +838,15 @@
                       "padding-bottom": "10px",
                       "padding-left": "0px",
                       "padding-right": "0px",
-                      "background-color": "#14b8a6",
-                      "border-radius": "6px",
+                      "background-color": "#f97316",
+                      "border-radius": "999px",
                       "font-weight": "800",
-                      "href": "https://www.easyemail.pro/",
+                      "href": "https://funnyfuzzy.com/",
                       "color": "#ffffff"
                     },
                     "children": [
                       {
-                        "text": "VISIT EASYEMAIL.PRO"
+                        "text": "VISIT FUNNYFUZZY"
                       }
                     ],
                     "id": "ioZ8njBjM5-gf6f_pkTv3"
@@ -880,7 +880,7 @@
               }
             ],
             "attributes": {
-              "href": "https://www.easyemail.pro/",
+              "href": "https://funnyfuzzy.com/",
               "padding-left": "0px",
               "padding-right": "0px",
               "padding-top": "0px",
@@ -899,7 +899,7 @@
               }
             ],
             "attributes": {
-              "href": "https://www.easyemail.pro/",
+              "href": "https://funnyfuzzy.com/",
               "padding-left": "8px",
               "padding-right": "0px",
               "padding-top": "0px",
@@ -918,7 +918,7 @@
               }
             ],
             "attributes": {
-              "href": "https://www.easyemail.pro/",
+              "href": "https://funnyfuzzy.com/",
               "padding-left": "8px",
               "padding-right": "0px",
               "padding-top": "0px",
@@ -937,7 +937,7 @@
               }
             ],
             "attributes": {
-              "href": "https://www.easyemail.pro/",
+              "href": "https://funnyfuzzy.com/",
               "padding-left": "8px",
               "padding-right": "0px",
               "padding-top": "0px",
@@ -959,7 +959,7 @@
           "padding-left": "0px",
           "padding-right": "0px",
           "border-width": "1px",
-          "border-color": "#e2e8f0"
+          "border-color": "#fed7aa"
         },
         "children": [
           {
@@ -987,11 +987,11 @@
             "type": "standard-navbar-link",
             "children": [
               {
-                "text": "FEATURES"
+                "text": "DOG BEDS"
               }
             ],
             "attributes": {
-              "href": "https://www.easyemail.pro/",
+              "href": "https://funnyfuzzy.com/",
               "padding-left": "15px",
               "padding-right": "15px",
               "font-size": "14px",
@@ -1005,11 +1005,11 @@
             "type": "standard-navbar-link",
             "children": [
               {
-                "text": "TEMPLATES"
+                "text": "SOFA COVERS"
               }
             ],
             "attributes": {
-              "href": "https://www.easyemail.pro/",
+              "href": "https://funnyfuzzy.com/",
               "padding-left": "15px",
               "padding-right": "15px",
               "font-size": "14px",
@@ -1023,11 +1023,11 @@
             "type": "standard-navbar-link",
             "children": [
               {
-                "text": "PRICING"
+                "text": "TRAVEL"
               }
             ],
             "attributes": {
-              "href": "https://www.easyemail.pro/",
+              "href": "https://funnyfuzzy.com/",
               "padding-left": "15px",
               "padding-right": "15px",
               "font-size": "14px",
@@ -1041,11 +1041,11 @@
             "type": "standard-navbar-link",
             "children": [
               {
-                "text": "DOCS"
+                "text": "SALE"
               }
             ],
             "attributes": {
-              "href": "https://www.easyemail.pro/",
+              "href": "https://funnyfuzzy.com/",
               "padding-left": "15px",
               "padding-right": "15px",
               "font-size": "14px",
@@ -1074,7 +1074,7 @@
             "type": "html-block-node",
             "children": [
               {
-                "text": "Easy Email Pro"
+                "text": "FunnyFuzzy"
               }
             ],
             "attributes": {},
@@ -1087,7 +1087,7 @@
             "type": "html-block-node",
             "children": [
               {
-                "text": "You're receiving this email because you signed up at easyemail.pro."
+                "text": "You're receiving this email because you signed up at funnyfuzzy.com."
               }
             ],
             "attributes": {},
@@ -1115,7 +1115,7 @@
       }
     ],
     "attributes": {
-      "background-color": "#ecfdf5",
+      "background-color": "#fff7ed",
       "content-background-color": "#ffffff"
     },
     "id": "DnWP8fKH9a3AAZtF9c1Zy"
