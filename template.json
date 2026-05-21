@@ -1,0 +1,1075 @@
+{
+  "subject": "与我们一起开启盛宴",
+  "content": {
+    "data": {
+      "breakpoint": "480px",
+      "globalAttributes": {
+        "font-family": "Arial, sans-serif"
+      },
+      "blockAttributes": {
+        "standard-paragraph": {
+          "font-family": "serif,Arial"
+        },
+        "standard-h1": {
+          "font-family": ""
+        },
+        "standard-h2": {
+          "font-family": ""
+        },
+        "standard-h3": {
+          "font-family": ""
+        }
+      }
+    },
+    "type": "page",
+    "children": [
+      {
+        "type": "standard-section",
+        "data": {},
+        "attributes": {
+          "padding-top": "0px",
+          "padding-bottom": "0px"
+        },
+        "children": [
+          {
+            "type": "standard-column",
+            "data": {},
+            "attributes": {},
+            "children": [
+              {
+                "type": "standard-paragraph",
+                "data": {},
+                "attributes": {
+                  "padding-top": "10px",
+                  "padding-bottom": "10px",
+                  "padding-left": "10px",
+                  "padding-right": "10px",
+                  "font-size": "25px",
+                  "font-weight": "700",
+                  "color": "#1f2937"
+                },
+                "children": [
+                  {
+                    "text": "LUMINA"
+                  }
+                ],
+                "id": "cCwG64F7LAa4LnCtmlfTQ"
+              },
+              {
+                "type": "standard-navbar",
+                "data": {},
+                "attributes": {
+                  "padding-top": "0px",
+                  "padding-bottom": "0px",
+                  "padding-left": "0px",
+                  "padding-right": "0px",
+                  "item-padding-left": "15px",
+                  "item-padding-right": "15px",
+                  "font-size": "14px",
+                  "font-weight": "700"
+                },
+                "children": [
+                  {
+                    "data": {},
+                    "type": "standard-navbar-link",
+                    "children": [
+                      {
+                        "text": "新品上市"
+                      }
+                    ],
+                    "attributes": {
+                      "href": "",
+                      "padding-left": "15px",
+                      "padding-right": "15px",
+                      "font-size": "14px",
+                      "font-weight": "700"
+                    },
+                    "id": "HMAhL1hImBfWrGInEVfgQ"
+                  },
+                  {
+                    "data": {},
+                    "type": "standard-navbar-link",
+                    "children": [
+                      {
+                        "text": "选购"
+                      }
+                    ],
+                    "attributes": {
+                      "href": "",
+                      "padding-left": "15px",
+                      "padding-right": "15px",
+                      "font-size": "14px",
+                      "font-weight": "700"
+                    },
+                    "id": "69Y1eNcoZXPjTCBbg_wL4"
+                  },
+                  {
+                    "data": {},
+                    "type": "standard-navbar-link",
+                    "children": [
+                      {
+                        "text": "畅销单品"
+                      }
+                    ],
+                    "attributes": {
+                      "href": "",
+                      "padding-left": "15px",
+                      "padding-right": "15px",
+                      "font-size": "14px",
+                      "font-weight": "700"
+                    },
+                    "id": "0BQ7csrOL_3929Ytwfwl5"
+                  },
+                  {
+                    "data": {},
+                    "type": "standard-navbar-link",
+                    "children": [
+                      {
+                        "text": "特惠"
+                      }
+                    ],
+                    "attributes": {
+                      "href": "",
+                      "padding-left": "15px",
+                      "padding-right": "15px",
+                      "font-size": "14px",
+                      "font-weight": "700"
+                    },
+                    "id": "kUmsqEhG9h4BOjfyAUxWT"
+                  }
+                ],
+                "id": "t5u4dFNV-iLZFyOoPTqOV"
+              }
+            ],
+            "id": "JDp8Q6Tn--9n_zcU6is5D"
+          }
+        ],
+        "id": "ysU-4Hd-s6UeWBxkSCy7M"
+      },
+      {
+        "type": "standard-section",
+        "data": {},
+        "attributes": {
+          "padding-top": "100px",
+          "padding-bottom": "100px",
+          "background-image-enabled": true,
+          "background-url": "https://cdn.shopify.com/s/files/1/0863/8971/9346/files/jzr-ybeslwgfd1zwcpnmu_image.png",
+          "padding-left": "30px",
+          "padding-right": "30px",
+          "background-size": "cover",
+          "background-color": "#dff3e3"
+        },
+        "children": [
+          {
+            "type": "standard-column",
+            "attributes": {
+              "width": "100%"
+            },
+            "data": {},
+            "children": [
+              {
+                "type": "standard-paragraph",
+                "data": {},
+                "attributes": {
+                  "color": "#1f2937",
+                  "align": "left",
+                  "font-size": "47px",
+                  "line-height": "1.1"
+                },
+                "children": [
+                  {
+                    "type": "html-block-node",
+                    "children": [
+                      {
+                        "type": "html-block-node",
+                        "children": [
+                          {
+                            "text": "新季节，"
+                          }
+                        ],
+                        "attributes": {},
+                        "data": {
+                          "tagName": "div"
+                        },
+                        "id": "qGuDAh3pmNBWmBwaZQeue"
+                      },
+                      {
+                        "type": "html-block-node",
+                        "children": [
+                          {
+                            "text": "新灵感"
+                          }
+                        ],
+                        "attributes": {},
+                        "data": {
+                          "tagName": "div"
+                        },
+                        "id": "T9PGVz0Y3etkBpoT37ejI"
+                      }
+                    ],
+                    "attributes": {},
+                    "data": {
+                      "tagName": "div"
+                    },
+                    "id": "q81BRe80H0Rwn1R0WygDo"
+                  }
+                ],
+                "id": "xe_IzV2pSiwARgR-qIYbt"
+              },
+              {
+                "type": "standard-paragraph",
+                "data": {},
+                "attributes": {
+                  "color": "#000000",
+                  "align": "left",
+                  "font-size": "16px",
+                  "line-height": "1.5"
+                },
+                "children": [
+                  {
+                    "type": "html-block-node",
+                    "children": [
+                      {
+                        "type": "html-block-node",
+                        "children": [
+                          {
+                            "type": "html-block-node",
+                            "children": [
+                              {
+                                "text": "清新风格，匠心设计，"
+                              }
+                            ],
+                            "attributes": {},
+                            "data": {
+                              "tagName": "div"
+                            },
+                            "id": "f90DIIt8UKcChSvvlx1Qt"
+                          },
+                          {
+                            "type": "html-block-node",
+                            "children": [
+                              {
+                                "text": "为你的日常而造"
+                              }
+                            ],
+                            "attributes": {},
+                            "data": {
+                              "tagName": "div"
+                            },
+                            "id": "dbWd9LL-zepPo8L2L7d5R"
+                          }
+                        ],
+                        "attributes": {},
+                        "data": {
+                          "tagName": "div"
+                        },
+                        "id": "F-8TH2Gq4QD5I0PoEVZ7R"
+                      }
+                    ],
+                    "attributes": {},
+                    "data": {
+                      "tagName": "div"
+                    },
+                    "id": "3y24-ZYKd_tUJpV3wbjh4"
+                  }
+                ],
+                "id": "JMkYqJU8SnxAovw3MNbkN"
+              },
+              {
+                "type": "standard-button",
+                "data": {
+                  "content": "Button"
+                },
+                "attributes": {
+                  "padding-top": "30px",
+                  "padding-bottom": "30px",
+                  "background-color": "#4f9d69",
+                  "align": "left"
+                },
+                "children": [
+                  {
+                    "text": "选购系列"
+                  }
+                ],
+                "id": "9WMZiMTrnlvIlz0Qm_X6e"
+              }
+            ],
+            "id": "M6FQ_y6NMRjxd_54z9QwZ"
+          }
+        ],
+        "id": "AyF0vxG0pAUKY_r7_h9ri",
+        "mobileAttributes": {
+          "background-image-enabled": true,
+          "background-position": "center center",
+          "background-size": "contain",
+          "background-url": "https://cdn.shopify.com/s/files/1/0863/8971/9346/files/obawqwlwrlkveldexyfar_image.png",
+          "padding-left": "20px",
+          "padding-right": "20px"
+        }
+      },
+      {
+        "type": "standard-section",
+        "data": {},
+        "attributes": {},
+        "children": [
+          {
+            "type": "standard-column",
+            "attributes": {
+              "width": "100%"
+            },
+            "data": {},
+            "children": [
+              {
+                "type": "standard-paragraph",
+                "data": {},
+                "attributes": {
+                  "padding-top": "10px",
+                  "padding-bottom": "10px",
+                  "padding-left": "10px",
+                  "padding-right": "10px",
+                  "font-size": "29px"
+                },
+                "children": [
+                  {
+                    "text": "我们的畅销单品"
+                  }
+                ],
+                "id": "1WwA2t0UexmrbWLJSL9Bn"
+              }
+            ],
+            "id": "54PHRaaGxNug0cz4g9ZDs"
+          }
+        ],
+        "id": "PkeQr3VRGnbvSGNKNQGSD"
+      },
+      {
+        "type": "standard-section",
+        "data": {},
+        "attributes": {
+          "padding-left": "20px",
+          "padding-right": "20px"
+        },
+        "children": [
+          {
+            "type": "standard-column",
+            "attributes": {
+              "width": "33.33%"
+            },
+            "data": {},
+            "children": [
+              {
+                "type": "standard-image",
+                "data": {},
+                "attributes": {
+                  "padding-top": "0px",
+                  "padding-bottom": "0px",
+                  "padding-left": "10px",
+                  "padding-right": "10px",
+                  "src": "https://cdn.shopify.com/s/files/1/0863/8971/9346/files/z8j3q5va8vyfd54-x4s6d_image.png",
+                  "fluid-on-mobile": "true"
+                },
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "V4GM_8LfLa6CsWdFQ1UAQ"
+              },
+              {
+                "type": "standard-paragraph",
+                "data": {},
+                "attributes": {
+                  "padding-top": "10px",
+                  "padding-bottom": "10px",
+                  "padding-left": "10px",
+                  "padding-right": "10px"
+                },
+                "children": [
+                  {
+                    "text": "Ridge 陶瓷花瓶"
+                  }
+                ],
+                "id": "2UROuxGf3sInvEznB0NvE"
+              },
+              {
+                "type": "standard-paragraph",
+                "data": {},
+                "attributes": {
+                  "padding-top": "0px",
+                  "padding-bottom": "10px",
+                  "padding-left": "10px",
+                  "padding-right": "10px"
+                },
+                "children": [
+                  {
+                    "text": "$42.00"
+                  }
+                ],
+                "id": "xFyOIU25dTseNRuUYXvRP"
+              }
+            ],
+            "id": "CfKr0YEuiCNZhS5iIQeY7"
+          },
+          {
+            "type": "standard-column",
+            "attributes": {
+              "width": "33.33%"
+            },
+            "data": {},
+            "children": [
+              {
+                "type": "standard-image",
+                "data": {},
+                "attributes": {
+                  "padding-top": "0px",
+                  "padding-bottom": "0px",
+                  "padding-left": "10px",
+                  "padding-right": "10px",
+                  "src": "https://cdn.shopify.com/s/files/1/0863/8971/9346/files/bwyhbi-ggz4uh_a-23g1l_image.png",
+                  "fluid-on-mobile": "true"
+                },
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "l9UkkT5g1_UBOLtemxzMM"
+              },
+              {
+                "type": "standard-paragraph",
+                "data": {},
+                "attributes": {
+                  "padding-top": "10px",
+                  "padding-bottom": "10px",
+                  "padding-left": "10px",
+                  "padding-right": "10px"
+                },
+                "children": [
+                  {
+                    "text": "鼠尾草香氛蜡烛"
+                  }
+                ],
+                "id": "4558dIsb9oqP2dBqppLfj"
+              },
+              {
+                "type": "standard-paragraph",
+                "data": {},
+                "attributes": {
+                  "padding-top": "0px",
+                  "padding-bottom": "10px",
+                  "padding-left": "10px",
+                  "padding-right": "10px"
+                },
+                "children": [
+                  {
+                    "text": "$36.00"
+                  }
+                ],
+                "id": "adeBZuVsFjZuF-6JUxdLV"
+              }
+            ],
+            "id": "BWZE7zGuLDO8lhP3xSS4u"
+          },
+          {
+            "type": "standard-column",
+            "attributes": {
+              "width": "33.33%"
+            },
+            "data": {},
+            "children": [
+              {
+                "type": "standard-image",
+                "data": {},
+                "attributes": {
+                  "padding-top": "0px",
+                  "padding-bottom": "0px",
+                  "padding-left": "10px",
+                  "padding-right": "10px",
+                  "src": "https://cdn.shopify.com/s/files/1/0863/8971/9346/files/doeqcnjgeptwb7ksu20cl_image.png",
+                  "fluid-on-mobile": "true"
+                },
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "WtlE53EkqFNgB7Gcl9RJg"
+              },
+              {
+                "type": "standard-paragraph",
+                "data": {},
+                "attributes": {
+                  "padding-top": "10px",
+                  "padding-bottom": "10px",
+                  "padding-left": "10px",
+                  "padding-right": "10px"
+                },
+                "children": [
+                  {
+                    "text": "Marlo 台灯"
+                  }
+                ],
+                "id": "PXFMbAkNPNaziZZLNxc7u"
+              },
+              {
+                "type": "standard-paragraph",
+                "data": {},
+                "attributes": {
+                  "padding-top": "0px",
+                  "padding-bottom": "10px",
+                  "padding-left": "10px",
+                  "padding-right": "10px"
+                },
+                "children": [
+                  {
+                    "text": "$68.00"
+                  }
+                ],
+                "id": "VJyuGuQPcxeD0D1IbWLt2"
+              }
+            ],
+            "id": "KsZZ2_zYCe8-zEYnne_Wn"
+          }
+        ],
+        "id": "tBOQNt1qZRpsT-C4w0nz7"
+      },
+      {
+        "type": "standard-section",
+        "data": {},
+        "attributes": {
+          "padding-left": "20px",
+          "padding-right": "20px",
+          "padding-top": "0px",
+          "padding-bottom": "0px"
+        },
+        "children": [
+          {
+            "type": "standard-column",
+            "attributes": {
+              "width": "50%"
+            },
+            "data": {},
+            "children": [
+              {
+                "type": "standard-image",
+                "data": {},
+                "attributes": {
+                  "padding-top": "0px",
+                  "padding-bottom": "0px",
+                  "padding-left": "10px",
+                  "padding-right": "10px",
+                  "width": "367px",
+                  "src": "https://cdn.shopify.com/s/files/1/0863/8971/9346/files/vw_5_ny93ktmz-tgxuv5a_image.png",
+                  "border-radius": "15px"
+                },
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "24A87krLINWaitgnP1Z1T",
+                "mobileAttributes": {
+                  "padding-left": "0px",
+                  "padding-right": "0px"
+                }
+              }
+            ],
+            "id": "DcP6Tr2AX9LEFA6DZ7faN"
+          },
+          {
+            "type": "standard-column",
+            "attributes": {
+              "width": "50%",
+              "padding-left": "30px"
+            },
+            "data": {},
+            "children": [
+              {
+                "type": "standard-paragraph",
+                "data": {},
+                "attributes": {
+                  "padding-top": "20px",
+                  "padding-bottom": "0px",
+                  "padding-left": "0px",
+                  "padding-right": "0px",
+                  "font-size": "29px",
+                  "align": "left",
+                  "line-height": "1.1"
+                },
+                "children": [
+                  {
+                    "type": "html-block-node",
+                    "children": [
+                      {
+                        "text": "历久弥新的"
+                      }
+                    ],
+                    "attributes": {},
+                    "data": {
+                      "tagName": "div"
+                    },
+                    "id": "FOb-ltRyzg_wb7pyPWbig"
+                  },
+                  {
+                    "type": "html-block-node",
+                    "attributes": {},
+                    "data": {
+                      "tagName": "div"
+                    },
+                    "id": "Eeoatx-ketFMNVUmle6-J",
+                    "children": [
+                      {
+                        "text": "作品，"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "html-block-node",
+                    "children": [
+                      {
+                        "text": "为长久陪伴而造"
+                      }
+                    ],
+                    "attributes": {},
+                    "data": {
+                      "tagName": "div"
+                    },
+                    "id": "W0R-zl9HqmKZQx9ZqT_98"
+                  }
+                ],
+                "id": "XjD3qiwL2V4liGG9cEZdU"
+              },
+              {
+                "type": "standard-paragraph",
+                "data": {},
+                "attributes": {
+                  "padding-top": "10px",
+                  "padding-bottom": "10px",
+                  "padding-left": "0px",
+                  "padding-right": "0px",
+                  "align": "left"
+                },
+                "children": [
+                  {
+                    "text": "匠心设计与优质材质，为日常生活带来美感。"
+                  }
+                ],
+                "id": "vhkFMa8LQ-0i2Qzd5O10F"
+              },
+              {
+                "type": "standard-button",
+                "data": {
+                  "content": "Button"
+                },
+                "attributes": {
+                  "padding-top": "10px",
+                  "padding-bottom": "10px",
+                  "padding-left": "0px",
+                  "padding-right": "0px",
+                  "background-color": "#4f9d69",
+                  "align": "left"
+                },
+                "children": [
+                  {
+                    "text": "探索精选"
+                  }
+                ],
+                "id": "rJ7rH33r92OmDTvJC2gOv"
+              }
+            ],
+            "id": "XPV0S0PzeQuzqQBkV6Fsu"
+          }
+        ],
+        "id": "imoQsGm6cVy1LlaTwOc4d"
+      },
+      {
+        "type": "standard-wrapper",
+        "data": {},
+        "attributes": {
+          "background-repeat": "no-repeat",
+          "padding-left": "20px",
+          "padding-right": "20px"
+        },
+        "children": [
+          {
+            "type": "standard-section",
+            "data": {},
+            "attributes": {
+              "background-color": "#e8f5e9",
+              "background-image-enabled": false,
+              "background-url": "https://cdn.shopify.com/s/files/1/0863/8971/9346/files/q16fweuuy2-yqxjn0fgyt_image.png",
+              "background-size": "contain",
+              "border-radius": "8px"
+            },
+            "children": [
+              {
+                "type": "standard-column",
+                "attributes": {
+                  "width": "60%"
+                },
+                "data": {},
+                "children": [
+                  {
+                    "type": "standard-paragraph",
+                    "data": {},
+                    "attributes": {
+                      "padding-top": "0px",
+                      "padding-bottom": "0px",
+                      "padding-left": "10px",
+                      "padding-right": "10px",
+                      "align": "right",
+                      "font-size": "21px",
+                      "font-family": "inter",
+                      "color": "#1f3d2b",
+                      "line-height": "1.1"
+                    },
+                    "children": [
+                      {
+                        "type": "html-block-node",
+                        "children": [
+                          {
+                            "text": "首单立享 85 折"
+                          }
+                        ],
+                        "attributes": {},
+                        "data": {
+                          "tagName": "div"
+                        },
+                        "id": "rf9JYNysHlWV-p6r_sqtS"
+                      },
+                      {
+                        "type": "html-block-node",
+                        "children": [
+                          {
+                            "text": "订阅我们的邮件，享受 ",
+                            "fontSize": "14px",
+                            "color": "#5f7f67"
+                          }
+                        ],
+                        "attributes": {},
+                        "data": {
+                          "tagName": "div"
+                        },
+                        "id": "L1QwoFOCepil0iDHeCVAN"
+                      },
+                      {
+                        "type": "html-block-node",
+                        "attributes": {},
+                        "data": {
+                          "tagName": "div"
+                        },
+                        "id": "ZOXqtz0NBgAjIe0iZmcwk",
+                        "children": [
+                          {
+                            "text": "首单 85 折优惠。",
+                            "fontSize": "14px",
+                            "color": "#5f7f67"
+                          }
+                        ]
+                      }
+                    ],
+                    "id": "0BSuIfY3upCPvEAHO1OVQ",
+                    "mobileAttributes": {
+                      "align": "center"
+                    }
+                  }
+                ],
+                "id": "mGK-Iqv41lYDJowY-HPK2"
+              },
+              {
+                "type": "standard-column",
+                "attributes": {
+                  "width": "40%"
+                },
+                "data": {},
+                "children": [
+                  {
+                    "type": "standard-button",
+                    "data": {
+                      "content": "Button"
+                    },
+                    "attributes": {
+                      "padding-top": "10px",
+                      "padding-bottom": "10px",
+                      "padding-left": "0px",
+                      "padding-right": "0px",
+                      "background-color": "#4f9d69",
+                      "border-radius": "5px",
+                      "font-weight": "700"
+                    },
+                    "children": [
+                      {
+                        "text": "获取优惠码"
+                      }
+                    ],
+                    "id": "ioZ8njBjM5-gf6f_pkTv3"
+                  }
+                ],
+                "id": "AomCuZ4p58fUbutEqdUds"
+              }
+            ],
+            "id": "VQOAYPTNyXKuh7ZbcQVh1"
+          }
+        ],
+        "id": "hfQxiBdqn9auPkVLzzIQt"
+      },
+      {
+        "type": "standard-social",
+        "data": {},
+        "attributes": {
+          "spacing": "8px",
+          "icon-size": "30px",
+          "mode": "horizontal",
+          "padding-top": "20px",
+          "padding-bottom": "10px"
+        },
+        "children": [
+          {
+            "data": {},
+            "type": "standard-social-element",
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "attributes": {
+              "href": "",
+              "padding-left": "0px",
+              "padding-right": "0px",
+              "padding-top": "0px",
+              "padding-bottom": "0px",
+              "mode": "prebuilt",
+              "name": "instagram"
+            },
+            "id": "MEbNGHlShOc0988vfhac9"
+          },
+          {
+            "data": {},
+            "type": "standard-social-element",
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "attributes": {
+              "src": "https://cdn.shopify.com/s/files/1/0863/8971/9346/files/rxxjzpus7vy2cxi0vp6hr_image.png",
+              "href": "",
+              "padding-left": "8px",
+              "padding-right": "0px",
+              "padding-top": "0px",
+              "padding-bottom": "0px",
+              "mode": "prebuilt",
+              "name": "google"
+            },
+            "id": "GfQ9wOAhKNOOCHVwc9eKb"
+          },
+          {
+            "data": {},
+            "type": "standard-social-element",
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "attributes": {
+              "href": "",
+              "padding-left": "8px",
+              "padding-right": "0px",
+              "padding-top": "0px",
+              "padding-bottom": "0px",
+              "mode": "prebuilt",
+              "name": "x"
+            },
+            "id": "2yGnf7m4VRRi7GPZlQFtG"
+          },
+          {
+            "data": {},
+            "type": "standard-social-element",
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "attributes": {
+              "href": "",
+              "padding-left": "8px",
+              "padding-right": "0px",
+              "padding-top": "0px",
+              "padding-bottom": "0px",
+              "mode": "prebuilt",
+              "name": "pinterest"
+            },
+            "id": "yfE4U07hBpfQxSCBkdNbH"
+          }
+        ],
+        "id": "qJwe1MpNip2UFs0Op4rIU"
+      },
+      {
+        "type": "standard-divider",
+        "data": {},
+        "attributes": {
+          "padding-top": "10px",
+          "padding-bottom": "10px",
+          "padding-left": "0px",
+          "padding-right": "0px",
+          "border-width": "1px"
+        },
+        "children": [
+          {
+            "text": ""
+          }
+        ],
+        "id": "8kwE9WQ8BdW-uMeVYHbK8"
+      },
+      {
+        "type": "standard-navbar",
+        "data": {},
+        "attributes": {
+          "padding-top": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "padding-right": "0px",
+          "item-padding-left": "15px",
+          "item-padding-right": "15px",
+          "font-size": "14px",
+          "font-weight": "700"
+        },
+        "children": [
+          {
+            "data": {},
+            "type": "standard-navbar-link",
+            "children": [
+              {
+                "text": "新品上市"
+              }
+            ],
+            "attributes": {
+              "href": "",
+              "padding-left": "15px",
+              "padding-right": "15px",
+              "font-size": "14px",
+              "font-weight": "700"
+            },
+            "id": "q25if7fGsXeBrFSGxNS44"
+          },
+          {
+            "data": {},
+            "type": "standard-navbar-link",
+            "children": [
+              {
+                "text": "选购"
+              }
+            ],
+            "attributes": {
+              "href": "",
+              "padding-left": "15px",
+              "padding-right": "15px",
+              "font-size": "14px",
+              "font-weight": "700"
+            },
+            "id": "ng1gEQB3tl8tlBPboL24k"
+          },
+          {
+            "data": {},
+            "type": "standard-navbar-link",
+            "children": [
+              {
+                "text": "畅销单品"
+              }
+            ],
+            "attributes": {
+              "href": "",
+              "padding-left": "15px",
+              "padding-right": "15px",
+              "font-size": "14px",
+              "font-weight": "700"
+            },
+            "id": "fucB8CrLaZeMjd4LctaZP"
+          },
+          {
+            "data": {},
+            "type": "standard-navbar-link",
+            "children": [
+              {
+                "text": "特惠"
+              }
+            ],
+            "attributes": {
+              "href": "",
+              "padding-left": "15px",
+              "padding-right": "15px",
+              "font-size": "14px",
+              "font-weight": "700"
+            },
+            "id": "XQDvaTAplCKgtXr7GM-uw"
+          }
+        ],
+        "id": "38Q0p3lg6-LPLa8NgaDdv"
+      },
+      {
+        "type": "standard-paragraph",
+        "data": {},
+        "attributes": {
+          "padding-top": "10px",
+          "padding-bottom": "10px",
+          "padding-left": "10px",
+          "padding-right": "10px",
+          "color": "#667085",
+          "font-size": "14px"
+        },
+        "children": [
+          {
+            "type": "html-block-node",
+            "children": [
+              {
+                "text": "美国加利福尼亚州旧金山市 Design Way 123 号，邮编 94107"
+              }
+            ],
+            "attributes": {},
+            "data": {
+              "tagName": "div"
+            },
+            "id": "9oJfU8Vil7KJ0yAJJpeSC"
+          },
+          {
+            "type": "html-block-node",
+            "children": [
+              {
+                "text": "你收到这封邮件，是因为你在我们的网站上进行了订阅。"
+              }
+            ],
+            "attributes": {},
+            "data": {
+              "tagName": "div"
+            },
+            "id": "dv7fGRAlTgaC5w0fXorPh"
+          },
+          {
+            "type": "html-block-node",
+            "children": [
+              {
+                "text": "取消订阅",
+                "link": {
+                  "href": "{{ common.unsubscribe }}",
+                  "blank": true
+                }
+              }
+            ],
+            "attributes": {},
+            "data": {
+              "tagName": "div"
+            },
+            "id": "m17vgkqUKPIlmWS6Z-S5S"
+          }
+        ],
+        "id": "hQl4GyHqf5zK6vrYRRdtD",
+        "mobileAttributes": {}
+      }
+    ],
+    "attributes": {
+      "background-color": "#f1f8f2",
+      "content-background-color": "#ffffff"
+    },
+    "id": "DnWP8fKH9a3AAZtF9c1Zy"
+  }
+}
