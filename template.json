@@ -47,7 +47,7 @@
                   "padding-right": "28px",
                   "font-size": "24px",
                   "font-weight": "800",
-                  "color": "#2563eb",
+                  "color": "#14b8a6",
                   "letter-spacing": "0px",
                   "align": "center"
                 },
@@ -86,7 +86,7 @@
                       "padding-right": "12px",
                       "font-size": "13px",
                       "font-weight": "700",
-                      "color": "#2563eb"
+                      "color": "#14b8a6"
                     },
                     "id": "HMAhL1hImBfWrGInEVfgQ"
                   },
@@ -164,7 +164,7 @@
           "padding-left": "44px",
           "padding-right": "44px",
           "background-size": "contain",
-          "background-color": "#f8fbff",
+          "background-color": "#f0fdfa",
           "background-position": "center center",
           "background-repeat": "no-repeat"
         },
@@ -285,7 +285,7 @@
                 "attributes": {
                   "padding-top": "22px",
                   "padding-bottom": "8px",
-                  "background-color": "#2563eb",
+                  "background-color": "#14b8a6",
                   "align": "center",
                   "href": "https://www.easyemail.pro/",
                   "color": "#ffffff",
@@ -752,7 +752,7 @@
             "type": "standard-section",
             "data": {},
             "attributes": {
-              "background-color": "#eff6ff",
+              "background-color": "#ccfbf1",
               "background-image-enabled": false,
               "background-url": "https://www.easyemail.pro/_next/static/media/easy-email-pro.0x_s2ydn-o_g9.svg",
               "background-size": "contain",
@@ -838,7 +838,7 @@
                       "padding-bottom": "10px",
                       "padding-left": "0px",
                       "padding-right": "0px",
-                      "background-color": "#2563eb",
+                      "background-color": "#14b8a6",
                       "border-radius": "6px",
                       "font-weight": "800",
                       "href": "https://www.easyemail.pro/",
@@ -1115,7 +1115,7 @@
       }
     ],
     "attributes": {
-      "background-color": "#eef2f7",
+      "background-color": "#ecfdf5",
       "content-background-color": "#ffffff"
     },
     "id": "DnWP8fKH9a3AAZtF9c1Zy"
