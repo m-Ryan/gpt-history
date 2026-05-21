@@ -1,10 +1,10 @@
 {
-  "subject": "FunnyFuzzy: Cozy picks for pets and homes",
+  "subject": "FunnyFuzzy: A fresher cozy-home edit",
   "content": {
     "data": {
       "breakpoint": "480px",
       "globalAttributes": {
-        "font-family": "Arial, Helvetica, sans-serif"
+        "font-family": "Inter, Arial, Helvetica, sans-serif"
       },
       "blockAttributes": {
         "standard-paragraph": {
@@ -27,9 +27,9 @@
         "type": "standard-section",
         "data": {},
         "attributes": {
-          "padding-top": "18px",
-          "padding-bottom": "14px",
-          "background-color": "#ffffff"
+          "padding-top": "16px",
+          "padding-bottom": "12px",
+          "background-color": "#fffaf3"
         },
         "children": [
           {
@@ -45,9 +45,9 @@
                   "padding-bottom": "6px",
                   "padding-left": "28px",
                   "padding-right": "28px",
-                  "font-size": "24px",
+                  "font-size": "26px",
                   "font-weight": "800",
-                  "color": "#f97316",
+                  "color": "#d96f32",
                   "letter-spacing": "0px",
                   "align": "center"
                 },
@@ -68,8 +68,8 @@
                   "padding-right": "0px",
                   "item-padding-left": "15px",
                   "item-padding-right": "15px",
-                  "font-size": "13px",
-                  "font-weight": "700"
+                  "font-size": "12px",
+                  "font-weight": "800"
                 },
                 "children": [
                   {
@@ -82,11 +82,11 @@
                     ],
                     "attributes": {
                       "href": "https://funnyfuzzy.com/",
-                      "padding-left": "12px",
-                      "padding-right": "12px",
-                      "font-size": "13px",
-                      "font-weight": "700",
-                      "color": "#f97316"
+                      "padding-left": "10px",
+                      "padding-right": "10px",
+                      "font-size": "12px",
+                      "font-weight": "800",
+                      "color": "#5f6b54"
                     },
                     "id": "HMAhL1hImBfWrGInEVfgQ"
                   },
@@ -100,11 +100,11 @@
                     ],
                     "attributes": {
                       "href": "https://funnyfuzzy.com/",
-                      "padding-left": "12px",
-                      "padding-right": "12px",
-                      "font-size": "13px",
-                      "font-weight": "700",
-                      "color": "#4b5563"
+                      "padding-left": "10px",
+                      "padding-right": "10px",
+                      "font-size": "12px",
+                      "font-weight": "800",
+                      "color": "#5f6b54"
                     },
                     "id": "69Y1eNcoZXPjTCBbg_wL4"
                   },
@@ -118,11 +118,11 @@
                     ],
                     "attributes": {
                       "href": "https://funnyfuzzy.com/",
-                      "padding-left": "12px",
-                      "padding-right": "12px",
-                      "font-size": "13px",
-                      "font-weight": "700",
-                      "color": "#4b5563"
+                      "padding-left": "10px",
+                      "padding-right": "10px",
+                      "font-size": "12px",
+                      "font-weight": "800",
+                      "color": "#5f6b54"
                     },
                     "id": "0BQ7csrOL_3929Ytwfwl5"
                   },
@@ -136,11 +136,11 @@
                     ],
                     "attributes": {
                       "href": "https://funnyfuzzy.com/",
-                      "padding-left": "12px",
-                      "padding-right": "12px",
-                      "font-size": "13px",
-                      "font-weight": "700",
-                      "color": "#4b5563"
+                      "padding-left": "10px",
+                      "padding-right": "10px",
+                      "font-size": "12px",
+                      "font-weight": "800",
+                      "color": "#d96f32"
                     },
                     "id": "kUmsqEhG9h4BOjfyAUxWT"
                   }
@@ -157,14 +157,14 @@
         "type": "standard-section",
         "data": {},
         "attributes": {
-          "padding-top": "72px",
-          "padding-bottom": "78px",
-          "background-image-enabled": true,
-          "background-url": "https://images.unsplash.com/photo-1601758174114-e711c0cbaa69?auto=format&fit=crop&w=900&q=80",
-          "padding-left": "44px",
-          "padding-right": "44px",
+          "padding-top": "58px",
+          "padding-bottom": "52px",
+          "background-image-enabled": false,
+          "background-url": "",
+          "padding-left": "42px",
+          "padding-right": "42px",
           "background-size": "cover",
-          "background-color": "#fff7ed",
+          "background-color": "#f5e7d2",
           "background-position": "center center",
           "background-repeat": "no-repeat"
         },
@@ -180,11 +180,11 @@
                 "type": "standard-paragraph",
                 "data": {},
                 "attributes": {
-                  "color": "#1f2937",
+                  "color": "#2d3328",
                   "align": "center",
-                  "font-size": "42px",
-                  "line-height": "1.14",
-                  "font-weight": "800"
+                  "font-size": "40px",
+                  "line-height": "1.12",
+                  "font-weight": "900"
                 },
                 "children": [
                   {
@@ -194,7 +194,7 @@
                         "type": "html-block-node",
                         "children": [
                           {
-                            "text": "Comfort made for"
+                            "text": "A softer home,"
                           }
                         ],
                         "attributes": {},
@@ -207,7 +207,7 @@
                         "type": "html-block-node",
                         "children": [
                           {
-                            "text": "pets and people"
+                            "text": "built around them"
                           }
                         ],
                         "attributes": {},
@@ -230,12 +230,12 @@
                 "type": "standard-paragraph",
                 "data": {},
                 "attributes": {
-                  "color": "#374151",
+                  "color": "#5f6b54",
                   "align": "center",
                   "font-size": "16px",
-                  "line-height": "1.65",
-                  "padding-left": "30px",
-                  "padding-right": "30px"
+                  "line-height": "1.7",
+                  "padding-left": "18px",
+                  "padding-right": "18px"
                 },
                 "children": [
                   {
@@ -245,7 +245,7 @@
                         "type": "html-block-node",
                         "children": [
                           {
-                            "text": "Cozy beds, protective sofa covers, and travel-ready gear"
+                            "text": "Curated comfort pieces for naps, messy sofas, and easy trips"
                           }
                         ],
                         "attributes": {},
@@ -258,7 +258,7 @@
                         "type": "html-block-node",
                         "children": [
                           {
-                            "text": "in warm, playful styles inspired by FunnyFuzzy."
+                            "text": "with a warmer FunnyFuzzy-inspired look."
                           }
                         ],
                         "attributes": {},
@@ -283,18 +283,18 @@
                   "content": "Button"
                 },
                 "attributes": {
-                  "padding-top": "22px",
-                  "padding-bottom": "8px",
-                  "background-color": "#f97316",
+                  "padding-top": "24px",
+                  "padding-bottom": "6px",
+                  "background-color": "#2f6b4f",
                   "align": "center",
                   "href": "https://funnyfuzzy.com/",
                   "color": "#ffffff",
-                  "border-radius": "999px",
-                  "font-weight": "800"
+                  "border-radius": "6px",
+                  "font-weight": "900"
                 },
                 "children": [
                   {
-                    "text": "SHOP NEW ARRIVALS"
+                    "text": "SHOP THE COZY EDIT"
                   }
                 ],
                 "id": "9WMZiMTrnlvIlz0Qm_X6e"
@@ -305,23 +305,23 @@
         ],
         "id": "AyF0vxG0pAUKY_r7_h9ri",
         "mobileAttributes": {
-          "background-image-enabled": true,
+          "background-image-enabled": false,
           "background-position": "center center",
           "background-size": "cover",
-          "background-url": "https://images.unsplash.com/photo-1601758174114-e711c0cbaa69?auto=format&fit=crop&w=900&q=80",
+          "background-url": "",
           "padding-left": "24px",
           "padding-right": "24px",
-          "padding-top": "54px",
-          "padding-bottom": "58px"
+          "padding-top": "46px",
+          "padding-bottom": "48px"
         }
       },
       {
         "type": "standard-section",
         "data": {},
         "attributes": {
-          "background-color": "#ffffff",
+          "background-color": "#fffaf3",
           "padding-top": "34px",
-          "padding-bottom": "4px",
+          "padding-bottom": "0px",
           "padding-left": "28px",
           "padding-right": "28px"
         },
@@ -341,15 +341,15 @@
                   "padding-bottom": "10px",
                   "padding-left": "10px",
                   "padding-right": "10px",
-                  "font-size": "24px",
+                  "font-size": "22px",
                   "font-weight": "800",
-                  "color": "#1f2937",
+                  "color": "#2d3328",
                   "align": "center",
-                  "line-height": "1.25"
+                  "line-height": "1.3"
                 },
                 "children": [
                   {
-                    "text": "Best-loved comfort for every corner"
+                    "text": "Three everyday upgrades"
                   }
                 ],
                 "id": "1WwA2t0UexmrbWLJSL9Bn"
@@ -364,19 +364,19 @@
         "type": "standard-section",
         "data": {},
         "attributes": {
-          "padding-left": "26px",
-          "padding-right": "26px",
-          "padding-top": "6px",
-          "padding-bottom": "34px",
-          "background-color": "#ffffff"
+          "padding-left": "22px",
+          "padding-right": "22px",
+          "padding-top": "8px",
+          "padding-bottom": "32px",
+          "background-color": "#fffaf3"
         },
         "children": [
           {
             "type": "standard-column",
             "attributes": {
               "width": "33.33%",
-              "padding-left": "8px",
-              "padding-right": "8px"
+              "padding-left": "9px",
+              "padding-right": "9px"
             },
             "data": {},
             "children": [
@@ -384,14 +384,14 @@
                 "type": "standard-image",
                 "data": {},
                 "attributes": {
-                  "padding-top": "10px",
-                  "padding-bottom": "8px",
+                  "padding-top": "8px",
+                  "padding-bottom": "10px",
                   "padding-left": "0px",
                   "padding-right": "0px",
-                  "src": "https://images.unsplash.com/photo-1561037404-61cd46aa615b?auto=format&fit=crop&w=300&q=80",
+                  "src": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?auto=format&fit=crop&w=420&q=80",
                   "fluid-on-mobile": "true",
-                  "width": "110px",
-                  "border-radius": "8px"
+                  "width": "150px",
+                  "border-radius": "6px"
                 },
                 "children": [
                   {
@@ -406,16 +406,16 @@
                 "attributes": {
                   "padding-top": "10px",
                   "padding-bottom": "4px",
-                  "padding-left": "10px",
-                  "padding-right": "10px",
-                  "font-size": "16px",
-                  "font-weight": "800",
-                  "color": "#1f2937",
+                  "padding-left": "6px",
+                  "padding-right": "6px",
+                  "font-size": "15px",
+                  "font-weight": "900",
+                  "color": "#2d3328",
                   "align": "center"
                 },
                 "children": [
                   {
-                    "text": "Calming dog beds"
+                    "text": "Nest-worthy beds"
                   }
                 ],
                 "id": "2UROuxGf3sInvEznB0NvE"
@@ -426,16 +426,16 @@
                 "attributes": {
                   "padding-top": "0px",
                   "padding-bottom": "10px",
-                  "padding-left": "10px",
-                  "padding-right": "10px",
-                  "font-size": "13px",
+                  "padding-left": "4px",
+                  "padding-right": "4px",
+                  "font-size": "12px",
                   "line-height": "1.55",
-                  "color": "#6b7280",
+                  "color": "#66715e",
                   "align": "center"
                 },
                 "children": [
                   {
-                    "text": "Soft, supportive spots for deeper naps and better lounging."
+                    "text": "Plush shapes that make rest feel intentional."
                   }
                 ],
                 "id": "xFyOIU25dTseNRuUYXvRP"
@@ -447,8 +447,8 @@
             "type": "standard-column",
             "attributes": {
               "width": "33.33%",
-              "padding-left": "8px",
-              "padding-right": "8px"
+              "padding-left": "9px",
+              "padding-right": "9px"
             },
             "data": {},
             "children": [
@@ -456,14 +456,14 @@
                 "type": "standard-image",
                 "data": {},
                 "attributes": {
-                  "padding-top": "10px",
-                  "padding-bottom": "8px",
+                  "padding-top": "8px",
+                  "padding-bottom": "10px",
                   "padding-left": "0px",
                   "padding-right": "0px",
-                  "src": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=300&q=80",
+                  "src": "https://images.unsplash.com/photo-1592194996308-7b43878e84a6?auto=format&fit=crop&w=420&q=80",
                   "fluid-on-mobile": "true",
-                  "width": "110px",
-                  "border-radius": "8px"
+                  "width": "150px",
+                  "border-radius": "6px"
                 },
                 "children": [
                   {
@@ -478,16 +478,16 @@
                 "attributes": {
                   "padding-top": "10px",
                   "padding-bottom": "4px",
-                  "padding-left": "10px",
-                  "padding-right": "10px",
-                  "font-size": "16px",
-                  "font-weight": "800",
-                  "color": "#1f2937",
+                  "padding-left": "6px",
+                  "padding-right": "6px",
+                  "font-size": "15px",
+                  "font-weight": "900",
+                  "color": "#2d3328",
                   "align": "center"
                 },
                 "children": [
                   {
-                    "text": "Washable sofa covers"
+                    "text": "Sofa-saving layers"
                   }
                 ],
                 "id": "4558dIsb9oqP2dBqppLfj"
@@ -498,16 +498,16 @@
                 "attributes": {
                   "padding-top": "0px",
                   "padding-bottom": "10px",
-                  "padding-left": "10px",
-                  "padding-right": "10px",
-                  "font-size": "13px",
+                  "padding-left": "4px",
+                  "padding-right": "4px",
+                  "font-size": "12px",
                   "line-height": "1.55",
-                  "color": "#6b7280",
+                  "color": "#66715e",
                   "align": "center"
                 },
                 "children": [
                   {
-                    "text": "Protect furniture with cozy textures that still look at home."
+                    "text": "Washable textures that protect without looking temporary."
                   }
                 ],
                 "id": "adeBZuVsFjZuF-6JUxdLV"
@@ -519,8 +519,8 @@
             "type": "standard-column",
             "attributes": {
               "width": "33.33%",
-              "padding-left": "8px",
-              "padding-right": "8px"
+              "padding-left": "9px",
+              "padding-right": "9px"
             },
             "data": {},
             "children": [
@@ -528,14 +528,14 @@
                 "type": "standard-image",
                 "data": {},
                 "attributes": {
-                  "padding-top": "10px",
-                  "padding-bottom": "8px",
+                  "padding-top": "8px",
+                  "padding-bottom": "10px",
                   "padding-left": "0px",
                   "padding-right": "0px",
-                  "src": "https://images.unsplash.com/photo-1517849845537-4d257902454a?auto=format&fit=crop&w=300&q=80",
+                  "src": "https://images.unsplash.com/photo-1537151625747-768eb6cf92b2?auto=format&fit=crop&w=420&q=80",
                   "fluid-on-mobile": "true",
-                  "width": "110px",
-                  "border-radius": "8px"
+                  "width": "150px",
+                  "border-radius": "6px"
                 },
                 "children": [
                   {
@@ -550,16 +550,16 @@
                 "attributes": {
                   "padding-top": "10px",
                   "padding-bottom": "4px",
-                  "padding-left": "10px",
-                  "padding-right": "10px",
-                  "font-size": "16px",
-                  "font-weight": "800",
-                  "color": "#1f2937",
+                  "padding-left": "6px",
+                  "padding-right": "6px",
+                  "font-size": "15px",
+                  "font-weight": "900",
+                  "color": "#2d3328",
                   "align": "center"
                 },
                 "children": [
                   {
-                    "text": "Travel essentials"
+                    "text": "Out-the-door gear"
                   }
                 ],
                 "id": "PXFMbAkNPNaziZZLNxc7u"
@@ -570,16 +570,16 @@
                 "attributes": {
                   "padding-top": "0px",
                   "padding-bottom": "10px",
-                  "padding-left": "10px",
-                  "padding-right": "10px",
-                  "font-size": "13px",
+                  "padding-left": "4px",
+                  "padding-right": "4px",
+                  "font-size": "12px",
                   "line-height": "1.55",
-                  "color": "#6b7280",
+                  "color": "#66715e",
                   "align": "center"
                 },
                 "children": [
                   {
-                    "text": "Car seats, blankets, and carriers built for easy adventures."
+                    "text": "Simple carriers, blankets, and car comfort for daily movement."
                   }
                 ],
                 "id": "VJyuGuQPcxeD0D1IbWLt2"
@@ -594,11 +594,11 @@
         "type": "standard-section",
         "data": {},
         "attributes": {
-          "padding-left": "30px",
-          "padding-right": "30px",
-          "padding-top": "36px",
-          "padding-bottom": "40px",
-          "background-color": "#ffedd5"
+          "padding-left": "34px",
+          "padding-right": "34px",
+          "padding-top": "40px",
+          "padding-bottom": "42px",
+          "background-color": "#dfead7"
         },
         "children": [
           {
@@ -616,9 +616,9 @@
                   "padding-bottom": "0px",
                   "padding-left": "0px",
                   "padding-right": "0px",
-                  "width": "300px",
-                  "src": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?auto=format&fit=crop&w=700&q=80",
-                  "border-radius": "8px"
+                  "width": "310px",
+                  "src": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?auto=format&fit=crop&w=760&q=80",
+                  "border-radius": "6px"
                 },
                 "children": [
                   {
@@ -638,7 +638,7 @@
             "type": "standard-column",
             "attributes": {
               "width": "50%",
-              "padding-left": "26px"
+              "padding-left": "30px"
             },
             "data": {},
             "children": [
@@ -650,18 +650,18 @@
                   "padding-bottom": "0px",
                   "padding-left": "0px",
                   "padding-right": "0px",
-                  "font-size": "28px",
+                  "font-size": "29px",
                   "align": "left",
-                  "line-height": "1.2",
-                  "font-weight": "800",
-                  "color": "#0f172a"
+                  "line-height": "1.18",
+                  "font-weight": "900",
+                  "color": "#2d3328"
                 },
                 "children": [
                   {
                     "type": "html-block-node",
                     "children": [
                       {
-                        "text": "Fresh textures,"
+                        "text": "Style that works"
                       }
                     ],
                     "attributes": {},
@@ -674,7 +674,7 @@
                     "type": "html-block-node",
                     "children": [
                       {
-                        "text": "easy-clean comfort"
+                        "text": "after muddy walks"
                       }
                     ],
                     "attributes": {},
@@ -696,12 +696,12 @@
                   "padding-right": "0px",
                   "align": "left",
                   "font-size": "15px",
-                  "line-height": "1.7",
-                  "color": "#475569"
+                  "line-height": "1.75",
+                  "color": "#56624f"
                 },
                 "children": [
                   {
-                    "text": "Layer your home with plush pet beds, machine-washable covers, and bright everyday pieces designed for real pet life."
+                    "text": "Choose soft textures, grounded colors, and machine-washable pieces that make pet life feel considered instead of cluttered."
                   }
                 ],
                 "id": "vhkFMa8LQ-0i2Qzd5O10F"
@@ -716,16 +716,16 @@
                   "padding-bottom": "10px",
                   "padding-left": "0px",
                   "padding-right": "0px",
-                  "background-color": "#1f2937",
+                  "background-color": "#d96f32",
                   "align": "left",
                   "href": "https://funnyfuzzy.com/",
                   "color": "#ffffff",
-                  "border-radius": "999px",
-                  "font-weight": "800"
+                  "border-radius": "6px",
+                  "font-weight": "900"
                 },
                 "children": [
                   {
-                    "text": "SHOP THE COLLECTION"
+                    "text": "BUILD THE LOOK"
                   }
                 ],
                 "id": "rJ7rH33r92OmDTvJC2gOv"
@@ -741,26 +741,26 @@
         "data": {},
         "attributes": {
           "background-repeat": "no-repeat",
-          "padding-left": "28px",
-          "padding-right": "28px",
-          "background-color": "#ffffff",
-          "padding-top": "6px",
-          "padding-bottom": "38px"
+          "padding-left": "30px",
+          "padding-right": "30px",
+          "background-color": "#fffaf3",
+          "padding-top": "8px",
+          "padding-bottom": "40px"
         },
         "children": [
           {
             "type": "standard-section",
             "data": {},
             "attributes": {
-              "background-color": "#fef3c7",
+              "background-color": "#2d3328",
               "background-image-enabled": false,
               "background-url": "",
               "background-size": "contain",
-              "border-radius": "8px",
+              "border-radius": "6px",
               "background-position": "left center",
               "background-repeat": "no-repeat",
-              "padding-top": "22px",
-              "padding-bottom": "22px"
+              "padding-top": "24px",
+              "padding-bottom": "24px"
             },
             "children": [
               {
@@ -779,9 +779,9 @@
                       "padding-left": "24px",
                       "padding-right": "16px",
                       "align": "left",
-                      "font-size": "22px",
+                      "font-size": "21px",
                       "font-family": "inter",
-                      "color": "#0f172a",
+                      "color": "#fffaf3",
                       "line-height": "1.35",
                       "font-weight": "800"
                     },
@@ -790,7 +790,7 @@
                         "type": "html-block-node",
                         "children": [
                           {
-                            "text": "Give your pet a cozier routine."
+                            "text": "Refresh the rooms they use most."
                           }
                         ],
                         "attributes": {},
@@ -803,7 +803,7 @@
                         "type": "html-block-node",
                         "children": [
                           {
-                            "text": "Explore FunnyFuzzy favorites today."
+                            "text": "Warm finds, washable finishes, fewer compromises."
                           }
                         ],
                         "attributes": {},
@@ -838,15 +838,15 @@
                       "padding-bottom": "10px",
                       "padding-left": "0px",
                       "padding-right": "0px",
-                      "background-color": "#f97316",
-                      "border-radius": "999px",
-                      "font-weight": "800",
+                      "background-color": "#f5e7d2",
+                      "border-radius": "6px",
+                      "font-weight": "900",
                       "href": "https://funnyfuzzy.com/",
-                      "color": "#ffffff"
+                      "color": "#2d3328"
                     },
                     "children": [
                       {
-                        "text": "VISIT FUNNYFUZZY"
+                        "text": "SHOP FUNNYFUZZY"
                       }
                     ],
                     "id": "ioZ8njBjM5-gf6f_pkTv3"
@@ -867,7 +867,7 @@
           "spacing": "8px",
           "icon-size": "24px",
           "mode": "horizontal",
-          "padding-top": "22px",
+          "padding-top": "20px",
           "padding-bottom": "10px"
         },
         "children": [
@@ -959,7 +959,7 @@
           "padding-left": "0px",
           "padding-right": "0px",
           "border-width": "1px",
-          "border-color": "#fed7aa"
+          "border-color": "#e8d7c3"
         },
         "children": [
           {
@@ -996,7 +996,7 @@
               "padding-right": "15px",
               "font-size": "14px",
               "font-weight": "700",
-              "color": "#64748b"
+              "color": "#66715e"
             },
             "id": "q25if7fGsXeBrFSGxNS44"
           },
@@ -1014,7 +1014,7 @@
               "padding-right": "15px",
               "font-size": "14px",
               "font-weight": "700",
-              "color": "#64748b"
+              "color": "#66715e"
             },
             "id": "ng1gEQB3tl8tlBPboL24k"
           },
@@ -1032,7 +1032,7 @@
               "padding-right": "15px",
               "font-size": "14px",
               "font-weight": "700",
-              "color": "#64748b"
+              "color": "#66715e"
             },
             "id": "fucB8CrLaZeMjd4LctaZP"
           },
@@ -1050,7 +1050,7 @@
               "padding-right": "15px",
               "font-size": "14px",
               "font-weight": "700",
-              "color": "#64748b"
+              "color": "#66715e"
             },
             "id": "XQDvaTAplCKgtXr7GM-uw"
           }
@@ -1065,7 +1065,7 @@
           "padding-bottom": "26px",
           "padding-left": "10px",
           "padding-right": "10px",
-          "color": "#64748b",
+          "color": "#7b8575",
           "font-size": "13px",
           "line-height": "1.6"
         },
@@ -1115,8 +1115,8 @@
       }
     ],
     "attributes": {
-      "background-color": "#fff7ed",
-      "content-background-color": "#ffffff"
+      "background-color": "#f7f1e8",
+      "content-background-color": "#fffaf3"
     },
     "id": "DnWP8fKH9a3AAZtF9c1Zy"
   }
