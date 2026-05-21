@@ -1,5 +1,5 @@
 {
-  "subject": "JOIN US FOR A FEAST ON",
+  "subject": "Easy Email Pro - Build responsive emails faster",
   "content": {
     "data": {
       "breakpoint": "480px",
@@ -46,11 +46,11 @@
                   "padding-right": "10px",
                   "font-size": "25px",
                   "font-weight": "700",
-                  "color": "#1f2937"
+                  "color": "#111827"
                 },
                 "children": [
                   {
-                    "text": "LUMINA"
+                    "text": "Easy Email Pro"
                   }
                 ],
                 "id": "cCwG64F7LAa4LnCtmlfTQ"
@@ -66,7 +66,8 @@
                   "item-padding-left": "15px",
                   "item-padding-right": "15px",
                   "font-size": "14px",
-                  "font-weight": "700"
+                  "font-weight": "700",
+                  "color": "#374151"
                 },
                 "children": [
                   {
@@ -74,11 +75,11 @@
                     "type": "standard-navbar-link",
                     "children": [
                       {
-                        "text": "NEW IN"
+                        "text": "FEATURES"
                       }
                     ],
                     "attributes": {
-                      "href": "",
+                      "href": "https://www.easyemail.pro/",
                       "padding-left": "15px",
                       "padding-right": "15px",
                       "font-size": "14px",
@@ -91,11 +92,11 @@
                     "type": "standard-navbar-link",
                     "children": [
                       {
-                        "text": "SHOP"
+                        "text": "TEMPLATES"
                       }
                     ],
                     "attributes": {
-                      "href": "",
+                      "href": "https://www.easyemail.pro/",
                       "padding-left": "15px",
                       "padding-right": "15px",
                       "font-size": "14px",
@@ -108,11 +109,11 @@
                     "type": "standard-navbar-link",
                     "children": [
                       {
-                        "text": "BEST SELLERS"
+                        "text": "DOCS"
                       }
                     ],
                     "attributes": {
-                      "href": "",
+                      "href": "https://www.easyemail.pro/",
                       "padding-left": "15px",
                       "padding-right": "15px",
                       "font-size": "14px",
@@ -125,11 +126,11 @@
                     "type": "standard-navbar-link",
                     "children": [
                       {
-                        "text": "SALE"
+                        "text": "START FREE"
                       }
                     ],
                     "attributes": {
-                      "href": "",
+                      "href": "https://www.easyemail.pro/",
                       "padding-left": "15px",
                       "padding-right": "15px",
                       "font-size": "14px",
@@ -150,14 +151,14 @@
         "type": "standard-section",
         "data": {},
         "attributes": {
-          "padding-top": "100px",
-          "padding-bottom": "100px",
-          "background-image-enabled": true,
-          "background-url": "https://cdn.shopify.com/s/files/1/0863/8971/9346/files/jzr-ybeslwgfd1zwcpnmu_image.png",
+          "padding-top": "80px",
+          "padding-bottom": "80px",
+          "background-image-enabled": false,
+          "background-url": "",
           "padding-left": "30px",
           "padding-right": "30px",
           "background-size": "cover",
-          "background-color": "#dfdae7"
+          "background-color": "#eef4ff"
         },
         "children": [
           {
@@ -171,7 +172,7 @@
                 "type": "standard-paragraph",
                 "data": {},
                 "attributes": {
-                  "color": "#1f2937",
+                  "color": "#111827",
                   "align": "left",
                   "font-size": "47px",
                   "line-height": "1.1"
@@ -184,7 +185,7 @@
                         "type": "html-block-node",
                         "children": [
                           {
-                            "text": "New season,"
+                            "text": "Build emails"
                           }
                         ],
                         "attributes": {},
@@ -197,7 +198,7 @@
                         "type": "html-block-node",
                         "children": [
                           {
-                            "text": "new inspiration"
+                            "text": "visually with Easy Email Pro"
                           }
                         ],
                         "attributes": {},
@@ -220,7 +221,7 @@
                 "type": "standard-paragraph",
                 "data": {},
                 "attributes": {
-                  "color": "#000000",
+                  "color": "#4b5563",
                   "align": "left",
                   "font-size": "16px",
                   "line-height": "1.5"
@@ -236,7 +237,7 @@
                             "type": "html-block-node",
                             "children": [
                               {
-                                "text": "Fresh styles, thoughtful design,"
+                                "text": "A professional drag-and-drop editor for creating"
                               }
                             ],
                             "attributes": {},
@@ -249,7 +250,7 @@
                             "type": "html-block-node",
                             "children": [
                               {
-                                "text": "made for your everyday"
+                                "text": "responsive, production-ready email templates."
                               }
                             ],
                             "attributes": {},
@@ -283,12 +284,14 @@
                 "attributes": {
                   "padding-top": "30px",
                   "padding-bottom": "30px",
-                  "background-color": "#000000",
-                  "align": "left"
+                  "background-color": "#2563eb",
+                  "align": "left",
+                  "href": "https://www.easyemail.pro/",
+                  "border-radius": "6px"
                 },
                 "children": [
                   {
-                    "text": "SHOP COLLECTION"
+                    "text": "VISIT WEBSITE"
                   }
                 ],
                 "id": "9WMZiMTrnlvIlz0Qm_X6e"
@@ -299,10 +302,10 @@
         ],
         "id": "AyF0vxG0pAUKY_r7_h9ri",
         "mobileAttributes": {
-          "background-image-enabled": true,
+          "background-image-enabled": false,
           "background-position": "center center",
-          "background-size": "contain",
-          "background-url": "https://cdn.shopify.com/s/files/1/0863/8971/9346/files/obawqwlwrlkveldexyfar_image.png",
+          "background-size": "cover",
+          "background-url": "",
           "padding-left": "20px",
           "padding-right": "20px"
         }
@@ -327,11 +330,13 @@
                   "padding-bottom": "10px",
                   "padding-left": "10px",
                   "padding-right": "10px",
-                  "font-size": "29px"
+                  "font-size": "29px",
+                  "color": "#111827",
+                  "font-weight": "700"
                 },
                 "children": [
                   {
-                    "text": "Our bestsellers"
+                    "text": "What you can build with Easy Email Pro"
                   }
                 ],
                 "id": "1WwA2t0UexmrbWLJSL9Bn"
@@ -365,7 +370,7 @@
                   "padding-bottom": "0px",
                   "padding-left": "10px",
                   "padding-right": "10px",
-                  "src": "https://cdn.shopify.com/s/files/1/0863/8971/9346/files/z8j3q5va8vyfd54-x4s6d_image.png",
+                  "src": "https://www.easyemail.pro/favicon.ico",
                   "fluid-on-mobile": "true"
                 },
                 "children": [
@@ -386,7 +391,7 @@
                 },
                 "children": [
                   {
-                    "text": "Ridge Ceramic Vase"
+                    "text": "Drag-and-drop editor"
                   }
                 ],
                 "id": "2UROuxGf3sInvEznB0NvE"
@@ -398,11 +403,13 @@
                   "padding-top": "0px",
                   "padding-bottom": "10px",
                   "padding-left": "10px",
-                  "padding-right": "10px"
+                  "padding-right": "10px",
+                  "color": "#6b7280",
+                  "font-size": "14px"
                 },
                 "children": [
                   {
-                    "text": "$42.00"
+                    "text": "Design newsletters, marketing campaigns, and transactional emails without hand-coding every block."
                   }
                 ],
                 "id": "xFyOIU25dTseNRuUYXvRP"
@@ -425,7 +432,7 @@
                   "padding-bottom": "0px",
                   "padding-left": "10px",
                   "padding-right": "10px",
-                  "src": "https://cdn.shopify.com/s/files/1/0863/8971/9346/files/bwyhbi-ggz4uh_a-23g1l_image.png",
+                  "src": "https://www.easyemail.pro/favicon.ico",
                   "fluid-on-mobile": "true"
                 },
                 "children": [
@@ -446,7 +453,7 @@
                 },
                 "children": [
                   {
-                    "text": "Sage Candle"
+                    "text": "Responsive email output"
                   }
                 ],
                 "id": "4558dIsb9oqP2dBqppLfj"
@@ -458,11 +465,13 @@
                   "padding-top": "0px",
                   "padding-bottom": "10px",
                   "padding-left": "10px",
-                  "padding-right": "10px"
+                  "padding-right": "10px",
+                  "color": "#6b7280",
+                  "font-size": "14px"
                 },
                 "children": [
                   {
-                    "text": "$36.00"
+                    "text": "Create clean email JSON templates that adapt across desktop and mobile inboxes."
                   }
                 ],
                 "id": "adeBZuVsFjZuF-6JUxdLV"
@@ -485,7 +494,7 @@
                   "padding-bottom": "0px",
                   "padding-left": "10px",
                   "padding-right": "10px",
-                  "src": "https://cdn.shopify.com/s/files/1/0863/8971/9346/files/doeqcnjgeptwb7ksu20cl_image.png",
+                  "src": "https://www.easyemail.pro/favicon.ico",
                   "fluid-on-mobile": "true"
                 },
                 "children": [
@@ -506,7 +515,7 @@
                 },
                 "children": [
                   {
-                    "text": "Marlo Table Lamp"
+                    "text": "Built for teams"
                   }
                 ],
                 "id": "PXFMbAkNPNaziZZLNxc7u"
@@ -518,11 +527,13 @@
                   "padding-top": "0px",
                   "padding-bottom": "10px",
                   "padding-left": "10px",
-                  "padding-right": "10px"
+                  "padding-right": "10px",
+                  "color": "#6b7280",
+                  "font-size": "14px"
                 },
                 "children": [
                   {
-                    "text": "$68.00"
+                    "text": "Use reusable blocks and a developer-friendly workflow to ship branded emails faster."
                   }
                 ],
                 "id": "VJyuGuQPcxeD0D1IbWLt2"
@@ -558,9 +569,9 @@
                   "padding-bottom": "0px",
                   "padding-left": "10px",
                   "padding-right": "10px",
-                  "width": "367px",
-                  "src": "https://cdn.shopify.com/s/files/1/0863/8971/9346/files/vw_5_ny93ktmz-tgxuv5a_image.png",
-                  "border-radius": "15px"
+                  "width": "180px",
+                  "src": "https://www.easyemail.pro/favicon.ico",
+                  "border-radius": "8px"
                 },
                 "children": [
                   {
@@ -601,7 +612,7 @@
                     "type": "html-block-node",
                     "children": [
                       {
-                        "text": "Timeless "
+                        "text": "From idea"
                       }
                     ],
                     "attributes": {},
@@ -619,7 +630,7 @@
                     "id": "Eeoatx-ketFMNVUmle6-J",
                     "children": [
                       {
-                        "text": "pieces,"
+                        "text": "to email"
                       }
                     ]
                   },
@@ -627,7 +638,7 @@
                     "type": "html-block-node",
                     "children": [
                       {
-                        "text": "made to stay"
+                        "text": "in minutes"
                       }
                     ],
                     "attributes": {},
@@ -647,11 +658,12 @@
                   "padding-bottom": "10px",
                   "padding-left": "0px",
                   "padding-right": "0px",
-                  "align": "left"
+                  "align": "left",
+                  "color": "#4b5563"
                 },
                 "children": [
                   {
-                    "text": "Thoughtful design and quality materials that bring beauty to the everyday."
+                    "text": "Start from a polished template, customize content and styling, then export a responsive email that is ready for your workflow."
                   }
                 ],
                 "id": "vhkFMa8LQ-0i2Qzd5O10F"
@@ -666,12 +678,14 @@
                   "padding-bottom": "10px",
                   "padding-left": "0px",
                   "padding-right": "0px",
-                  "background-color": "#000000",
-                  "align": "left"
+                  "background-color": "#111827",
+                  "align": "left",
+                  "href": "https://www.easyemail.pro/",
+                  "border-radius": "6px"
                 },
                 "children": [
                   {
-                    "text": "EXPLORE THE EDIT"
+                    "text": "EXPLORE EASY EMAIL PRO"
                   }
                 ],
                 "id": "rJ7rH33r92OmDTvJC2gOv"
@@ -695,7 +709,7 @@
             "type": "standard-section",
             "data": {},
             "attributes": {
-              "background-color": "#efe9ff",
+              "background-color": "#eef4ff",
               "background-image-enabled": false,
               "background-url": "https://cdn.shopify.com/s/files/1/0863/8971/9346/files/q16fweuuy2-yqxjn0fgyt_image.png",
               "background-size": "contain",
@@ -728,7 +742,7 @@
                         "type": "html-block-node",
                         "children": [
                           {
-                            "text": "15% off your first order"
+                            "text": "Ready to design better emails?"
                           }
                         ],
                         "attributes": {},
@@ -741,7 +755,7 @@
                         "type": "html-block-node",
                         "children": [
                           {
-                            "text": "Sign up for our emails and enjoy ",
+                            "text": "Visit Easy Email Pro and see how fast your team can create",
                             "fontSize": "14px",
                             "color": "#736e9a"
                           }
@@ -761,7 +775,7 @@
                         "id": "ZOXqtz0NBgAjIe0iZmcwk",
                         "children": [
                           {
-                            "text": "15% off your first order.",
+                            "text": "beautiful, responsive email campaigns.",
                             "fontSize": "14px",
                             "color": "#736e9a"
                           }
@@ -793,13 +807,14 @@
                       "padding-bottom": "10px",
                       "padding-left": "0px",
                       "padding-right": "0px",
-                      "background-color": "#6d3edb",
+                      "background-color": "#2563eb",
                       "border-radius": "5px",
-                      "font-weight": "700"
+                      "font-weight": "700",
+                      "href": "https://www.easyemail.pro/"
                     },
                     "children": [
                       {
-                        "text": "GET THE CODE"
+                        "text": "OPEN WEBSITE"
                       }
                     ],
                     "id": "ioZ8njBjM5-gf6f_pkTv3"
@@ -833,7 +848,7 @@
               }
             ],
             "attributes": {
-              "href": "",
+              "href": "https://www.easyemail.pro/",
               "padding-left": "0px",
               "padding-right": "0px",
               "padding-top": "0px",
@@ -853,7 +868,7 @@
             ],
             "attributes": {
               "src": "https://cdn.shopify.com/s/files/1/0863/8971/9346/files/rxxjzpus7vy2cxi0vp6hr_image.png",
-              "href": "",
+              "href": "https://www.easyemail.pro/",
               "padding-left": "8px",
               "padding-right": "0px",
               "padding-top": "0px",
@@ -872,7 +887,7 @@
               }
             ],
             "attributes": {
-              "href": "",
+              "href": "https://www.easyemail.pro/",
               "padding-left": "8px",
               "padding-right": "0px",
               "padding-top": "0px",
@@ -891,7 +906,7 @@
               }
             ],
             "attributes": {
-              "href": "",
+              "href": "https://www.easyemail.pro/",
               "padding-left": "8px",
               "padding-right": "0px",
               "padding-top": "0px",
@@ -940,11 +955,11 @@
             "type": "standard-navbar-link",
             "children": [
               {
-                "text": "NEW IN"
+                "text": "FEATURES"
               }
             ],
             "attributes": {
-              "href": "",
+              "href": "https://www.easyemail.pro/",
               "padding-left": "15px",
               "padding-right": "15px",
               "font-size": "14px",
@@ -957,11 +972,11 @@
             "type": "standard-navbar-link",
             "children": [
               {
-                "text": "SHOP"
+                "text": "TEMPLATES"
               }
             ],
             "attributes": {
-              "href": "",
+              "href": "https://www.easyemail.pro/",
               "padding-left": "15px",
               "padding-right": "15px",
               "font-size": "14px",
@@ -974,11 +989,11 @@
             "type": "standard-navbar-link",
             "children": [
               {
-                "text": "BEST SELLERS"
+                "text": "DOCS"
               }
             ],
             "attributes": {
-              "href": "",
+              "href": "https://www.easyemail.pro/",
               "padding-left": "15px",
               "padding-right": "15px",
               "font-size": "14px",
@@ -991,11 +1006,11 @@
             "type": "standard-navbar-link",
             "children": [
               {
-                "text": "SALE"
+                "text": "START FREE"
               }
             ],
             "attributes": {
-              "href": "",
+              "href": "https://www.easyemail.pro/",
               "padding-left": "15px",
               "padding-right": "15px",
               "font-size": "14px",
@@ -1022,7 +1037,7 @@
             "type": "html-block-node",
             "children": [
               {
-                "text": "123 Design Way, San Francisco, CA 94107, USA"
+                "text": "Easy Email Pro | easyemail.pro"
               }
             ],
             "attributes": {},
@@ -1035,7 +1050,7 @@
             "type": "html-block-node",
             "children": [
               {
-                "text": "You're receiving this email because you signed up on our website."
+                "text": "You are receiving this email because you signed up on the Easy Email Pro website."
               }
             ],
             "attributes": {},
@@ -1067,7 +1082,7 @@
       }
     ],
     "attributes": {
-      "background-color": "#f5f5f5",
+      "background-color": "#f6f8fb",
       "content-background-color": "#ffffff"
     },
     "id": "DnWP8fKH9a3AAZtF9c1Zy"
