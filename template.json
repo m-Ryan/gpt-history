@@ -349,7 +349,7 @@
                 },
                 "children": [
                   {
-                    "text": "Holiday gifts pet parents love"
+                    "text": "Shop clear Christmas favorites"
                   }
                 ],
                 "id": "1WwA2t0UexmrbWLJSL9Bn"
@@ -364,10 +364,10 @@
         "type": "standard-section",
         "data": {},
         "attributes": {
-          "padding-left": "22px",
-          "padding-right": "22px",
-          "padding-top": "8px",
-          "padding-bottom": "36px",
+          "padding-left": "24px",
+          "padding-right": "24px",
+          "padding-top": "12px",
+          "padding-bottom": "42px",
           "background-color": "#fbf8f2"
         },
         "children": [
@@ -375,8 +375,8 @@
             "type": "standard-column",
             "attributes": {
               "width": "33.33%",
-              "padding-left": "9px",
-              "padding-right": "9px"
+              "padding-left": "10px",
+              "padding-right": "10px"
             },
             "data": {},
             "children": [
@@ -385,12 +385,12 @@
                 "data": {},
                 "attributes": {
                   "padding-top": "8px",
-                  "padding-bottom": "10px",
+                  "padding-bottom": "12px",
                   "padding-left": "0px",
                   "padding-right": "0px",
                   "src": "https://images.unsplash.com/photo-1608096299210-db7e38487075?auto=format&fit=crop&w=420&q=80",
                   "fluid-on-mobile": "true",
-                  "width": "150px",
+                  "width": "168px",
                   "border-radius": "4px"
                 },
                 "children": [
@@ -405,17 +405,18 @@
                 "data": {},
                 "attributes": {
                   "padding-top": "10px",
-                  "padding-bottom": "4px",
+                  "padding-bottom": "5px",
                   "padding-left": "6px",
                   "padding-right": "6px",
-                  "font-size": "15px",
+                  "font-size": "14px",
                   "font-weight": "800",
                   "color": "#17221d",
-                  "align": "center"
+                  "align": "center",
+                  "line-height": "1.35"
                 },
                 "children": [
                   {
-                    "text": "Cozy winter naps"
+                    "text": "Plush Orthopedic Dog Bed"
                   }
                 ],
                 "id": "2UROuxGf3sInvEznB0NvE"
@@ -425,20 +426,66 @@
                 "data": {},
                 "attributes": {
                   "padding-top": "0px",
-                  "padding-bottom": "10px",
+                  "padding-bottom": "8px",
                   "padding-left": "4px",
                   "padding-right": "4px",
                   "font-size": "12px",
-                  "line-height": "1.55",
+                  "line-height": "1.5",
                   "color": "#56645d",
                   "align": "center"
                 },
                 "children": [
                   {
-                    "text": "Plush, supportive beds turn chilly corners into warm Christmas hideaways."
+                    "text": "Supportive winter comfort with a removable washable cover."
                   }
                 ],
                 "id": "xFyOIU25dTseNRuUYXvRP"
+              },
+              {
+                "type": "standard-paragraph",
+                "data": {},
+                "attributes": {
+                  "padding-top": "0px",
+                  "padding-bottom": "10px",
+                  "padding-left": "4px",
+                  "padding-right": "4px",
+                  "font-size": "14px",
+                  "line-height": "1.35",
+                  "color": "#7f2430",
+                  "align": "center",
+                  "font-weight": "900"
+                },
+                "children": [
+                  {
+                    "text": "Christmas deal from $39.99"
+                  }
+                ],
+                "id": "product-price-1"
+              },
+              {
+                "type": "standard-button",
+                "data": {
+                  "content": "Button"
+                },
+                "attributes": {
+                  "padding-top": "8px",
+                  "padding-bottom": "8px",
+                  "padding-left": "0px",
+                  "padding-right": "0px",
+                  "background-color": "#6f1f2b",
+                  "align": "center",
+                  "href": "https://funnyfuzzy.com/collections/dog-beds",
+                  "color": "#ffffff",
+                  "border-radius": "4px",
+                  "font-size": "12px",
+                  "font-weight": "900"
+                },
+                "children": [
+                  {
+                    "text": "SHOP DOG BEDS"
+                  }
+                ],
+                "id": "product-cta-1"
               }
             ],
             "id": "CfKr0YEuiCNZhS5iIQeY7"
@@ -447,8 +494,8 @@
             "type": "standard-column",
             "attributes": {
               "width": "33.33%",
-              "padding-left": "9px",
-              "padding-right": "9px"
+              "padding-left": "10px",
+              "padding-right": "10px"
             },
             "data": {},
             "children": [
@@ -457,12 +504,12 @@
                 "data": {},
                 "attributes": {
                   "padding-top": "8px",
-                  "padding-bottom": "10px",
+                  "padding-bottom": "12px",
                   "padding-left": "0px",
                   "padding-right": "0px",
                   "src": "https://images.unsplash.com/photo-1517423440428-a5a00ad493e8?auto=format&fit=crop&w=420&q=80",
                   "fluid-on-mobile": "true",
-                  "width": "150px",
+                  "width": "168px",
                   "border-radius": "4px"
                 },
                 "children": [
@@ -477,17 +524,18 @@
                 "data": {},
                 "attributes": {
                   "padding-top": "10px",
-                  "padding-bottom": "4px",
+                  "padding-bottom": "5px",
                   "padding-left": "6px",
                   "padding-right": "6px",
-                  "font-size": "15px",
+                  "font-size": "14px",
                   "font-weight": "800",
                   "color": "#17221d",
-                  "align": "center"
+                  "align": "center",
+                  "line-height": "1.35"
                 },
                 "children": [
                   {
-                    "text": "Guest-ready sofas"
+                    "text": "Washable Sofa Cover"
                   }
                 ],
                 "id": "4558dIsb9oqP2dBqppLfj"
@@ -497,20 +545,66 @@
                 "data": {},
                 "attributes": {
                   "padding-top": "0px",
-                  "padding-bottom": "10px",
+                  "padding-bottom": "8px",
                   "padding-left": "4px",
                   "padding-right": "4px",
                   "font-size": "12px",
-                  "line-height": "1.55",
+                  "line-height": "1.5",
                   "color": "#56645d",
                   "align": "center"
                 },
                 "children": [
                   {
-                    "text": "Washable covers help protect holiday hosting spaces from fur, dirt, and spills."
+                    "text": "Protects hosting spaces from fur, dirt, spills, and holiday traffic."
                   }
                 ],
                 "id": "adeBZuVsFjZuF-6JUxdLV"
+              },
+              {
+                "type": "standard-paragraph",
+                "data": {},
+                "attributes": {
+                  "padding-top": "0px",
+                  "padding-bottom": "10px",
+                  "padding-left": "4px",
+                  "padding-right": "4px",
+                  "font-size": "14px",
+                  "line-height": "1.35",
+                  "color": "#7f2430",
+                  "align": "center",
+                  "font-weight": "900"
+                },
+                "children": [
+                  {
+                    "text": "Save up to 40% today"
+                  }
+                ],
+                "id": "product-price-2"
+              },
+              {
+                "type": "standard-button",
+                "data": {
+                  "content": "Button"
+                },
+                "attributes": {
+                  "padding-top": "8px",
+                  "padding-bottom": "8px",
+                  "padding-left": "0px",
+                  "padding-right": "0px",
+                  "background-color": "#6f1f2b",
+                  "align": "center",
+                  "href": "https://funnyfuzzy.com/collections/couch-cover",
+                  "color": "#ffffff",
+                  "border-radius": "4px",
+                  "font-size": "12px",
+                  "font-weight": "900"
+                },
+                "children": [
+                  {
+                    "text": "SHOP SOFA COVERS"
+                  }
+                ],
+                "id": "product-cta-2"
               }
             ],
             "id": "BWZE7zGuLDO8lhP3xSS4u"
@@ -519,8 +613,8 @@
             "type": "standard-column",
             "attributes": {
               "width": "33.33%",
-              "padding-left": "9px",
-              "padding-right": "9px"
+              "padding-left": "10px",
+              "padding-right": "10px"
             },
             "data": {},
             "children": [
@@ -529,12 +623,12 @@
                 "data": {},
                 "attributes": {
                   "padding-top": "8px",
-                  "padding-bottom": "10px",
+                  "padding-bottom": "12px",
                   "padding-left": "0px",
                   "padding-right": "0px",
                   "src": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?auto=format&fit=crop&w=420&q=80",
                   "fluid-on-mobile": "true",
-                  "width": "150px",
+                  "width": "168px",
                   "border-radius": "4px"
                 },
                 "children": [
@@ -549,17 +643,18 @@
                 "data": {},
                 "attributes": {
                   "padding-top": "10px",
-                  "padding-bottom": "4px",
+                  "padding-bottom": "5px",
                   "padding-left": "6px",
                   "padding-right": "6px",
-                  "font-size": "15px",
+                  "font-size": "14px",
                   "font-weight": "800",
                   "color": "#17221d",
-                  "align": "center"
+                  "align": "center",
+                  "line-height": "1.35"
                 },
                 "children": [
                   {
-                    "text": "Travel for the holidays"
+                    "text": "Holiday Travel Essentials"
                   }
                 ],
                 "id": "PXFMbAkNPNaziZZLNxc7u"
@@ -569,20 +664,66 @@
                 "data": {},
                 "attributes": {
                   "padding-top": "0px",
-                  "padding-bottom": "10px",
+                  "padding-bottom": "8px",
                   "padding-left": "4px",
                   "padding-right": "4px",
                   "font-size": "12px",
-                  "line-height": "1.55",
+                  "line-height": "1.5",
                   "color": "#56645d",
                   "align": "center"
                 },
                 "children": [
                   {
-                    "text": "Carriers, blankets, and car gear keep comfort close on every seasonal visit."
+                    "text": "Carriers, blankets, and car gear for warmer seasonal visits."
                   }
                 ],
                 "id": "VJyuGuQPcxeD0D1IbWLt2"
+              },
+              {
+                "type": "standard-paragraph",
+                "data": {},
+                "attributes": {
+                  "padding-top": "0px",
+                  "padding-bottom": "10px",
+                  "padding-left": "4px",
+                  "padding-right": "4px",
+                  "font-size": "14px",
+                  "line-height": "1.35",
+                  "color": "#7f2430",
+                  "align": "center",
+                  "font-weight": "900"
+                },
+                "children": [
+                  {
+                    "text": "Bundle picks from $24.99"
+                  }
+                ],
+                "id": "product-price-3"
+              },
+              {
+                "type": "standard-button",
+                "data": {
+                  "content": "Button"
+                },
+                "attributes": {
+                  "padding-top": "8px",
+                  "padding-bottom": "8px",
+                  "padding-left": "0px",
+                  "padding-right": "0px",
+                  "background-color": "#6f1f2b",
+                  "align": "center",
+                  "href": "https://funnyfuzzy.com/collections/dog-travel",
+                  "color": "#ffffff",
+                  "border-radius": "4px",
+                  "font-size": "12px",
+                  "font-weight": "900"
+                },
+                "children": [
+                  {
+                    "text": "SHOP TRAVEL"
+                  }
+                ],
+                "id": "product-cta-3"
               }
             ],
             "id": "KsZZ2_zYCe8-zEYnne_Wn"
