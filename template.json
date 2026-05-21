@@ -1,5 +1,5 @@
 {
-  "subject": "FunnyFuzzy: Save today on cozy upgrades pets love",
+  "subject": "FunnyFuzzy Christmas: Cozy gifts for pets and homes",
   "content": {
     "data": {
       "breakpoint": "480px",
@@ -29,7 +29,7 @@
         "attributes": {
           "padding-top": "16px",
           "padding-bottom": "12px",
-          "background-color": "#fffaf3"
+          "background-color": "#fff7ed"
         },
         "children": [
           {
@@ -47,7 +47,7 @@
                   "padding-right": "28px",
                   "font-size": "26px",
                   "font-weight": "800",
-                  "color": "#d96f32",
+                  "color": "#b8202d",
                   "letter-spacing": "0px",
                   "align": "center"
                 },
@@ -86,7 +86,7 @@
                       "padding-right": "10px",
                       "font-size": "12px",
                       "font-weight": "800",
-                      "color": "#5f6b54"
+                      "color": "#2f6b4f"
                     },
                     "id": "HMAhL1hImBfWrGInEVfgQ"
                   },
@@ -104,7 +104,7 @@
                       "padding-right": "10px",
                       "font-size": "12px",
                       "font-weight": "800",
-                      "color": "#5f6b54"
+                      "color": "#2f6b4f"
                     },
                     "id": "69Y1eNcoZXPjTCBbg_wL4"
                   },
@@ -122,7 +122,7 @@
                       "padding-right": "10px",
                       "font-size": "12px",
                       "font-weight": "800",
-                      "color": "#5f6b54"
+                      "color": "#2f6b4f"
                     },
                     "id": "0BQ7csrOL_3929Ytwfwl5"
                   },
@@ -131,7 +131,7 @@
                     "type": "standard-navbar-link",
                     "children": [
                       {
-                        "text": "SALE"
+                        "text": "HOLIDAY SALE"
                       }
                     ],
                     "attributes": {
@@ -140,7 +140,7 @@
                       "padding-right": "10px",
                       "font-size": "12px",
                       "font-weight": "800",
-                      "color": "#d96f32"
+                      "color": "#b8202d"
                     },
                     "id": "kUmsqEhG9h4BOjfyAUxWT"
                   }
@@ -164,7 +164,7 @@
           "padding-left": "42px",
           "padding-right": "42px",
           "background-size": "cover",
-          "background-color": "#f5e7d2",
+          "background-color": "#f7dfc8",
           "background-position": "center center",
           "background-repeat": "no-repeat"
         },
@@ -180,7 +180,7 @@
                 "type": "standard-paragraph",
                 "data": {},
                 "attributes": {
-                  "color": "#2d3328",
+                  "color": "#183b2b",
                   "align": "center",
                   "font-size": "40px",
                   "line-height": "1.12",
@@ -194,7 +194,7 @@
                         "type": "html-block-node",
                         "children": [
                           {
-                            "text": "Cozy upgrades"
+                            "text": "Christmas comfort"
                           }
                         ],
                         "attributes": {},
@@ -207,7 +207,7 @@
                         "type": "html-block-node",
                         "children": [
                           {
-                            "text": "pets love. Homes need."
+                            "text": "for pets on the nice list."
                           }
                         ],
                         "attributes": {},
@@ -230,7 +230,7 @@
                 "type": "standard-paragraph",
                 "data": {},
                 "attributes": {
-                  "color": "#5f6b54",
+                  "color": "#2f6b4f",
                   "align": "center",
                   "font-size": "16px",
                   "line-height": "1.7",
@@ -245,7 +245,7 @@
                         "type": "html-block-node",
                         "children": [
                           {
-                            "text": "Limited-time comfort picks for cleaner sofas, better naps, and easier everyday travel"
+                            "text": "Holiday-ready beds, sofa covers, blankets, and travel picks made for cozy winter days."
                           }
                         ],
                         "attributes": {},
@@ -258,7 +258,7 @@
                         "type": "html-block-node",
                         "children": [
                           {
-                            "text": "Shop best-loved FunnyFuzzy essentials while seasonal deals are live."
+                            "text": "Shop festive FunnyFuzzy favorites while Christmas deals are live."
                           }
                         ],
                         "attributes": {},
@@ -285,7 +285,7 @@
                 "attributes": {
                   "padding-top": "24px",
                   "padding-bottom": "6px",
-                  "background-color": "#2f6b4f",
+                  "background-color": "#b8202d",
                   "align": "center",
                   "href": "https://funnyfuzzy.com/",
                   "color": "#ffffff",
@@ -294,7 +294,7 @@
                 },
                 "children": [
                   {
-                    "text": "SHOP DEALS NOW"
+                    "text": "SHOP CHRISTMAS DEALS"
                   }
                 ],
                 "id": "9WMZiMTrnlvIlz0Qm_X6e"
@@ -319,7 +319,7 @@
         "type": "standard-section",
         "data": {},
         "attributes": {
-          "background-color": "#fffaf3",
+          "background-color": "#fff7ed",
           "padding-top": "34px",
           "padding-bottom": "0px",
           "padding-left": "28px",
@@ -343,13 +343,13 @@
                   "padding-right": "10px",
                   "font-size": "22px",
                   "font-weight": "800",
-                  "color": "#2d3328",
+                  "color": "#183b2b",
                   "align": "center",
                   "line-height": "1.3"
                 },
                 "children": [
                   {
-                    "text": "Why pet parents switch"
+                    "text": "Holiday gifts pet parents love"
                   }
                 ],
                 "id": "1WwA2t0UexmrbWLJSL9Bn"
@@ -368,7 +368,7 @@
           "padding-right": "22px",
           "padding-top": "8px",
           "padding-bottom": "32px",
-          "background-color": "#fffaf3"
+          "background-color": "#fff7ed"
         },
         "children": [
           {
@@ -388,7 +388,7 @@
                   "padding-bottom": "10px",
                   "padding-left": "0px",
                   "padding-right": "0px",
-                  "src": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?auto=format&fit=crop&w=420&q=80",
+                  "src": "https://images.unsplash.com/photo-1608096299210-db7e38487075?auto=format&fit=crop&w=420&q=80",
                   "fluid-on-mobile": "true",
                   "width": "150px",
                   "border-radius": "6px"
@@ -410,12 +410,12 @@
                   "padding-right": "6px",
                   "font-size": "15px",
                   "font-weight": "900",
-                  "color": "#2d3328",
+                  "color": "#183b2b",
                   "align": "center"
                 },
                 "children": [
                   {
-                    "text": "Better rest, fast"
+                    "text": "Cozy winter naps"
                   }
                 ],
                 "id": "2UROuxGf3sInvEznB0NvE"
@@ -430,12 +430,12 @@
                   "padding-right": "4px",
                   "font-size": "12px",
                   "line-height": "1.55",
-                  "color": "#66715e",
+                  "color": "#506754",
                   "align": "center"
                 },
                 "children": [
                   {
-                    "text": "Supportive, plush beds designed to help pets settle in and stay comfortable."
+                    "text": "Plush, supportive beds turn chilly corners into warm Christmas hideaways."
                   }
                 ],
                 "id": "xFyOIU25dTseNRuUYXvRP"
@@ -460,7 +460,7 @@
                   "padding-bottom": "10px",
                   "padding-left": "0px",
                   "padding-right": "0px",
-                  "src": "https://images.unsplash.com/photo-1592194996308-7b43878e84a6?auto=format&fit=crop&w=420&q=80",
+                  "src": "https://images.unsplash.com/photo-1517423440428-a5a00ad493e8?auto=format&fit=crop&w=420&q=80",
                   "fluid-on-mobile": "true",
                   "width": "150px",
                   "border-radius": "6px"
@@ -482,12 +482,12 @@
                   "padding-right": "6px",
                   "font-size": "15px",
                   "font-weight": "900",
-                  "color": "#2d3328",
+                  "color": "#183b2b",
                   "align": "center"
                 },
                 "children": [
                   {
-                    "text": "Protect your sofa"
+                    "text": "Guest-ready sofas"
                   }
                 ],
                 "id": "4558dIsb9oqP2dBqppLfj"
@@ -502,12 +502,12 @@
                   "padding-right": "4px",
                   "font-size": "12px",
                   "line-height": "1.55",
-                  "color": "#66715e",
+                  "color": "#506754",
                   "align": "center"
                 },
                 "children": [
                   {
-                    "text": "Washable covers help handle fur, dirt, and daily spills without sacrificing style."
+                    "text": "Washable covers help protect holiday hosting spaces from fur, dirt, and spills."
                   }
                 ],
                 "id": "adeBZuVsFjZuF-6JUxdLV"
@@ -532,7 +532,7 @@
                   "padding-bottom": "10px",
                   "padding-left": "0px",
                   "padding-right": "0px",
-                  "src": "https://images.unsplash.com/photo-1537151625747-768eb6cf92b2?auto=format&fit=crop&w=420&q=80",
+                  "src": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?auto=format&fit=crop&w=420&q=80",
                   "fluid-on-mobile": "true",
                   "width": "150px",
                   "border-radius": "6px"
@@ -554,12 +554,12 @@
                   "padding-right": "6px",
                   "font-size": "15px",
                   "font-weight": "900",
-                  "color": "#2d3328",
+                  "color": "#183b2b",
                   "align": "center"
                 },
                 "children": [
                   {
-                    "text": "Ready for every trip"
+                    "text": "Travel for the holidays"
                   }
                 ],
                 "id": "PXFMbAkNPNaziZZLNxc7u"
@@ -574,12 +574,12 @@
                   "padding-right": "4px",
                   "font-size": "12px",
                   "line-height": "1.55",
-                  "color": "#66715e",
+                  "color": "#506754",
                   "align": "center"
                 },
                 "children": [
                   {
-                    "text": "Travel-friendly carriers, blankets, and car gear keep comfort moving with you."
+                    "text": "Carriers, blankets, and car gear keep comfort close on every seasonal visit."
                   }
                 ],
                 "id": "VJyuGuQPcxeD0D1IbWLt2"
@@ -598,7 +598,7 @@
           "padding-right": "34px",
           "padding-top": "40px",
           "padding-bottom": "42px",
-          "background-color": "#dfead7"
+          "background-color": "#e8f1df"
         },
         "children": [
           {
@@ -617,7 +617,7 @@
                   "padding-left": "0px",
                   "padding-right": "0px",
                   "width": "310px",
-                  "src": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?auto=format&fit=crop&w=760&q=80",
+                  "src": "https://images.unsplash.com/photo-1512389142860-9c449e58a543?auto=format&fit=crop&w=760&q=80",
                   "border-radius": "6px"
                 },
                 "children": [
@@ -654,14 +654,14 @@
                   "align": "left",
                   "line-height": "1.18",
                   "font-weight": "900",
-                  "color": "#2d3328"
+                  "color": "#183b2b"
                 },
                 "children": [
                   {
                     "type": "html-block-node",
                     "children": [
                       {
-                        "text": "Today’s cozy-home deal"
+                        "text": "Make their Christmas"
                       }
                     ],
                     "attributes": {},
@@ -674,7 +674,7 @@
                     "type": "html-block-node",
                     "children": [
                       {
-                        "text": "is made for real pet life"
+                        "text": "extra warm and washable"
                       }
                     ],
                     "attributes": {},
@@ -697,11 +697,11 @@
                   "align": "left",
                   "font-size": "15px",
                   "line-height": "1.75",
-                  "color": "#56624f"
+                  "color": "#425946"
                 },
                 "children": [
                   {
-                    "text": "Upgrade the spots your pet uses every day with soft textures, grounded colors, and machine-washable finishes. Add favorites now before the best styles sell through."
+                    "text": "Give pets the soft textures they curl into all winter, and give your home easy-care pieces ready for guests, photos, and festive movie nights."
                   }
                 ],
                 "id": "vhkFMa8LQ-0i2Qzd5O10F"
@@ -716,7 +716,7 @@
                   "padding-bottom": "10px",
                   "padding-left": "0px",
                   "padding-right": "0px",
-                  "background-color": "#d96f32",
+                  "background-color": "#b8202d",
                   "align": "left",
                   "href": "https://funnyfuzzy.com/",
                   "color": "#ffffff",
@@ -725,7 +725,7 @@
                 },
                 "children": [
                   {
-                    "text": "CLAIM THE OFFER"
+                    "text": "CLAIM HOLIDAY OFFER"
                   }
                 ],
                 "id": "rJ7rH33r92OmDTvJC2gOv"
@@ -743,7 +743,7 @@
           "background-repeat": "no-repeat",
           "padding-left": "30px",
           "padding-right": "30px",
-          "background-color": "#fffaf3",
+          "background-color": "#fff7ed",
           "padding-top": "8px",
           "padding-bottom": "40px"
         },
@@ -752,7 +752,7 @@
             "type": "standard-section",
             "data": {},
             "attributes": {
-              "background-color": "#2d3328",
+              "background-color": "#183b2b",
               "background-image-enabled": false,
               "background-url": "",
               "background-size": "contain",
@@ -781,7 +781,7 @@
                       "align": "left",
                       "font-size": "21px",
                       "font-family": "inter",
-                      "color": "#fffaf3",
+                      "color": "#fff7ed",
                       "line-height": "1.35",
                       "font-weight": "800"
                     },
@@ -790,7 +790,7 @@
                         "type": "html-block-node",
                         "children": [
                           {
-                            "text": "Refresh their favorite rooms today."
+                            "text": "Wrap up comfort before Christmas."
                           }
                         ],
                         "attributes": {},
@@ -803,7 +803,7 @@
                         "type": "html-block-node",
                         "children": [
                           {
-                            "text": "Shop limited-time deals on cozy, washable essentials."
+                            "text": "Shop limited-time holiday deals on cozy, washable essentials."
                           }
                         ],
                         "attributes": {},
@@ -838,15 +838,15 @@
                       "padding-bottom": "10px",
                       "padding-left": "0px",
                       "padding-right": "0px",
-                      "background-color": "#f5e7d2",
+                      "background-color": "#fff7ed",
                       "border-radius": "6px",
                       "font-weight": "900",
                       "href": "https://funnyfuzzy.com/",
-                      "color": "#2d3328"
+                      "color": "#183b2b"
                     },
                     "children": [
                       {
-                        "text": "SHOP THE SALE"
+                        "text": "SHOP HOLIDAY SALE"
                       }
                     ],
                     "id": "ioZ8njBjM5-gf6f_pkTv3"
@@ -959,7 +959,7 @@
           "padding-left": "0px",
           "padding-right": "0px",
           "border-width": "1px",
-          "border-color": "#e8d7c3"
+          "border-color": "#d9c3aa"
         },
         "children": [
           {
@@ -996,7 +996,7 @@
               "padding-right": "15px",
               "font-size": "14px",
               "font-weight": "700",
-              "color": "#66715e"
+              "color": "#506754"
             },
             "id": "q25if7fGsXeBrFSGxNS44"
           },
@@ -1014,7 +1014,7 @@
               "padding-right": "15px",
               "font-size": "14px",
               "font-weight": "700",
-              "color": "#66715e"
+              "color": "#506754"
             },
             "id": "ng1gEQB3tl8tlBPboL24k"
           },
@@ -1032,7 +1032,7 @@
               "padding-right": "15px",
               "font-size": "14px",
               "font-weight": "700",
-              "color": "#66715e"
+              "color": "#506754"
             },
             "id": "fucB8CrLaZeMjd4LctaZP"
           },
@@ -1041,7 +1041,7 @@
             "type": "standard-navbar-link",
             "children": [
               {
-                "text": "SALE"
+                "text": "HOLIDAY SALE"
               }
             ],
             "attributes": {
@@ -1050,7 +1050,7 @@
               "padding-right": "15px",
               "font-size": "14px",
               "font-weight": "700",
-              "color": "#66715e"
+              "color": "#506754"
             },
             "id": "XQDvaTAplCKgtXr7GM-uw"
           }
@@ -1065,7 +1065,7 @@
           "padding-bottom": "26px",
           "padding-left": "10px",
           "padding-right": "10px",
-          "color": "#7b8575",
+          "color": "#6a7568",
           "font-size": "13px",
           "line-height": "1.6"
         },
@@ -1115,8 +1115,8 @@
       }
     ],
     "attributes": {
-      "background-color": "#f7f1e8",
-      "content-background-color": "#fffaf3"
+      "background-color": "#f2eadf",
+      "content-background-color": "#fff7ed"
     },
     "id": "DnWP8fKH9a3AAZtF9c1Zy"
   }

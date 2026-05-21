@@ -7,3 +7,4 @@
 - Updated the template to follow FunnyFuzzy with warm orange styling, pet-home copy, product imagery, and funnyfuzzy.com links.
 - Reworked the FunnyFuzzy email into a cleaner editorial layout with a soft neutral background, sage/orange accents, refreshed hero, stronger product grid, and updated CTA sections.
 - Strengthened the FunnyFuzzy email with higher-converting offer-led copy, sharper benefits, and clearer sale CTAs while preserving the main structure.
+- Updated the FunnyFuzzy email with a Christmas theme, festive red/green palette, holiday copy, seasonal CTAs, and winter pet imagery.
