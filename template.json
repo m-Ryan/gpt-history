@@ -28,8 +28,8 @@
         "data": {},
         "attributes": {
           "padding-top": "18px",
-          "padding-bottom": "10px",
-          "background-color": "#0b1220"
+          "padding-bottom": "14px",
+          "background-color": "#ffffff"
         },
         "children": [
           {
@@ -42,13 +42,14 @@
                 "data": {},
                 "attributes": {
                   "padding-top": "8px",
-                  "padding-bottom": "8px",
+                  "padding-bottom": "6px",
                   "padding-left": "28px",
                   "padding-right": "28px",
                   "font-size": "24px",
                   "font-weight": "800",
-                  "color": "#ffffff",
-                  "letter-spacing": "0px"
+                  "color": "#2563eb",
+                  "letter-spacing": "0px",
+                  "align": "center"
                 },
                 "children": [
                   {
@@ -62,12 +63,12 @@
                 "data": {},
                 "attributes": {
                   "padding-top": "0px",
-                  "padding-bottom": "8px",
+                  "padding-bottom": "0px",
                   "padding-left": "0px",
                   "padding-right": "0px",
                   "item-padding-left": "15px",
                   "item-padding-right": "15px",
-                  "font-size": "12px",
+                  "font-size": "13px",
                   "font-weight": "700"
                 },
                 "children": [
@@ -81,11 +82,11 @@
                     ],
                     "attributes": {
                       "href": "https://www.easyemail.pro/",
-                      "padding-left": "15px",
-                      "padding-right": "15px",
-                      "font-size": "14px",
+                      "padding-left": "12px",
+                      "padding-right": "12px",
+                      "font-size": "13px",
                       "font-weight": "700",
-                      "color": "#8b5cf6"
+                      "color": "#2563eb"
                     },
                     "id": "HMAhL1hImBfWrGInEVfgQ"
                   },
@@ -99,11 +100,11 @@
                     ],
                     "attributes": {
                       "href": "https://www.easyemail.pro/",
-                      "padding-left": "15px",
-                      "padding-right": "15px",
-                      "font-size": "14px",
+                      "padding-left": "12px",
+                      "padding-right": "12px",
+                      "font-size": "13px",
                       "font-weight": "700",
-                      "color": "#cbd5e1"
+                      "color": "#64748b"
                     },
                     "id": "69Y1eNcoZXPjTCBbg_wL4"
                   },
@@ -117,11 +118,11 @@
                     ],
                     "attributes": {
                       "href": "https://www.easyemail.pro/",
-                      "padding-left": "15px",
-                      "padding-right": "15px",
-                      "font-size": "14px",
+                      "padding-left": "12px",
+                      "padding-right": "12px",
+                      "font-size": "13px",
                       "font-weight": "700",
-                      "color": "#cbd5e1"
+                      "color": "#64748b"
                     },
                     "id": "0BQ7csrOL_3929Ytwfwl5"
                   },
@@ -135,11 +136,11 @@
                     ],
                     "attributes": {
                       "href": "https://www.easyemail.pro/",
-                      "padding-left": "15px",
-                      "padding-right": "15px",
-                      "font-size": "14px",
+                      "padding-left": "12px",
+                      "padding-right": "12px",
+                      "font-size": "13px",
                       "font-weight": "700",
-                      "color": "#cbd5e1"
+                      "color": "#64748b"
                     },
                     "id": "kUmsqEhG9h4BOjfyAUxWT"
                   }
@@ -156,15 +157,15 @@
         "type": "standard-section",
         "data": {},
         "attributes": {
-          "padding-top": "76px",
-          "padding-bottom": "82px",
-          "background-image-enabled": true,
-          "background-url": "https://www.easyemail.pro/_next/static/media/easy-email-pro.0x_s2ydn-o_g9.svg",
-          "padding-left": "36px",
-          "padding-right": "36px",
-          "background-size": "430px",
-          "background-color": "#0b1220",
-          "background-position": "right center",
+          "padding-top": "56px",
+          "padding-bottom": "64px",
+          "background-image-enabled": false,
+          "background-url": "",
+          "padding-left": "44px",
+          "padding-right": "44px",
+          "background-size": "contain",
+          "background-color": "#f8fbff",
+          "background-position": "center center",
           "background-repeat": "no-repeat"
         },
         "children": [
@@ -179,10 +180,10 @@
                 "type": "standard-paragraph",
                 "data": {},
                 "attributes": {
-                  "color": "#ffffff",
-                  "align": "left",
-                  "font-size": "44px",
-                  "line-height": "1.08",
+                  "color": "#0f172a",
+                  "align": "center",
+                  "font-size": "40px",
+                  "line-height": "1.14",
                   "font-weight": "800"
                 },
                 "children": [
@@ -193,7 +194,7 @@
                         "type": "html-block-node",
                         "children": [
                           {
-                            "text": "Design responsive"
+                            "text": "Build responsive emails"
                           }
                         ],
                         "attributes": {},
@@ -206,7 +207,7 @@
                         "type": "html-block-node",
                         "children": [
                           {
-                            "text": "emails without the drag"
+                            "text": "with Easy Email Pro"
                           }
                         ],
                         "attributes": {},
@@ -229,10 +230,12 @@
                 "type": "standard-paragraph",
                 "data": {},
                 "attributes": {
-                  "color": "#cbd5e1",
-                  "align": "left",
-                  "font-size": "17px",
-                  "line-height": "1.65"
+                  "color": "#475569",
+                  "align": "center",
+                  "font-size": "16px",
+                  "line-height": "1.65",
+                  "padding-left": "30px",
+                  "padding-right": "30px"
                 },
                 "children": [
                   {
@@ -242,37 +245,27 @@
                         "type": "html-block-node",
                         "children": [
                           {
-                            "type": "html-block-node",
-                            "children": [
-                              {
-                                "text": "A cleaner visual builder for teams that need reusable blocks,"
-                              }
-                            ],
-                            "attributes": {},
-                            "data": {
-                              "tagName": "div"
-                            },
-                            "id": "f90DIIt8UKcChSvvlx1Qt"
-                          },
-                          {
-                            "type": "html-block-node",
-                            "children": [
-                              {
-                                "text": "brand consistency, and production-ready email HTML."
-                              }
-                            ],
-                            "attributes": {},
-                            "data": {
-                              "tagName": "div"
-                            },
-                            "id": "dbWd9LL-zepPo8L2L7d5R"
+                            "text": "A focused email builder for reusable blocks,"
                           }
                         ],
                         "attributes": {},
                         "data": {
                           "tagName": "div"
                         },
-                        "id": "F-8TH2Gq4QD5I0PoEVZ7R"
+                        "id": "f90DIIt8UKcChSvvlx1Qt"
+                      },
+                      {
+                        "type": "html-block-node",
+                        "children": [
+                          {
+                            "text": "brand consistency, and production-ready HTML."
+                          }
+                        ],
+                        "attributes": {},
+                        "data": {
+                          "tagName": "div"
+                        },
+                        "id": "dbWd9LL-zepPo8L2L7d5R"
                       }
                     ],
                     "attributes": {},
@@ -290,13 +283,13 @@
                   "content": "Button"
                 },
                 "attributes": {
-                  "padding-top": "24px",
-                  "padding-bottom": "10px",
-                  "background-color": "#7c3aed",
-                  "align": "left",
+                  "padding-top": "22px",
+                  "padding-bottom": "8px",
+                  "background-color": "#2563eb",
+                  "align": "center",
                   "href": "https://www.easyemail.pro/",
                   "color": "#ffffff",
-                  "border-radius": "8px",
+                  "border-radius": "6px",
                   "font-weight": "800"
                 },
                 "children": [
@@ -318,8 +311,8 @@
           "background-url": "https://cdn.shopify.com/s/files/1/0863/8971/9346/files/editor.png?v=1764056838",
           "padding-left": "24px",
           "padding-right": "24px",
-          "padding-top": "56px",
-          "padding-bottom": "56px"
+          "padding-top": "40px",
+          "padding-bottom": "44px"
         }
       },
       {
@@ -327,8 +320,8 @@
         "data": {},
         "attributes": {
           "background-color": "#ffffff",
-          "padding-top": "38px",
-          "padding-bottom": "10px",
+          "padding-top": "34px",
+          "padding-bottom": "4px",
           "padding-left": "28px",
           "padding-right": "28px"
         },
@@ -348,15 +341,15 @@
                   "padding-bottom": "10px",
                   "padding-left": "10px",
                   "padding-right": "10px",
-                  "font-size": "26px",
+                  "font-size": "24px",
                   "font-weight": "800",
-                  "color": "#111827",
+                  "color": "#0f172a",
                   "align": "center",
                   "line-height": "1.25"
                 },
                 "children": [
                   {
-                    "text": "Everything your email workflow needs, without visual clutter"
+                    "text": "Everything your email workflow needs"
                   }
                 ],
                 "id": "1WwA2t0UexmrbWLJSL9Bn"
@@ -373,7 +366,7 @@
         "attributes": {
           "padding-left": "26px",
           "padding-right": "26px",
-          "padding-top": "10px",
+          "padding-top": "6px",
           "padding-bottom": "34px",
           "background-color": "#ffffff"
         },
@@ -391,14 +384,14 @@
                 "type": "standard-image",
                 "data": {},
                 "attributes": {
-                  "padding-top": "14px",
-                  "padding-bottom": "10px",
+                  "padding-top": "10px",
+                  "padding-bottom": "8px",
                   "padding-left": "0px",
                   "padding-right": "0px",
                   "src": "https://cdn.shopify.com/s/files/1/0863/8971/9346/files/editor.png?v=1764056838",
                   "fluid-on-mobile": "true",
-                  "width": "96px",
-                  "border-radius": "8px"
+                  "width": "72px",
+                  "border-radius": "6px"
                 },
                 "children": [
                   {
@@ -415,9 +408,9 @@
                   "padding-bottom": "4px",
                   "padding-left": "10px",
                   "padding-right": "10px",
-                  "font-size": "17px",
+                  "font-size": "16px",
                   "font-weight": "800",
-                  "color": "#111827",
+                  "color": "#0f172a",
                   "align": "center"
                 },
                 "children": [
@@ -435,7 +428,7 @@
                   "padding-bottom": "10px",
                   "padding-left": "10px",
                   "padding-right": "10px",
-                  "font-size": "14px",
+                  "font-size": "13px",
                   "line-height": "1.55",
                   "color": "#64748b",
                   "align": "center"
@@ -463,14 +456,14 @@
                 "type": "standard-image",
                 "data": {},
                 "attributes": {
-                  "padding-top": "14px",
-                  "padding-bottom": "10px",
+                  "padding-top": "10px",
+                  "padding-bottom": "8px",
                   "padding-left": "0px",
                   "padding-right": "0px",
                   "src": "https://cdn.shopify.com/s/files/1/0863/8971/9346/files/9qxr-ed3zemjzg1t-faia_image.png",
                   "fluid-on-mobile": "true",
-                  "width": "96px",
-                  "border-radius": "8px"
+                  "width": "72px",
+                  "border-radius": "6px"
                 },
                 "children": [
                   {
@@ -487,9 +480,9 @@
                   "padding-bottom": "4px",
                   "padding-left": "10px",
                   "padding-right": "10px",
-                  "font-size": "17px",
+                  "font-size": "16px",
                   "font-weight": "800",
-                  "color": "#111827",
+                  "color": "#0f172a",
                   "align": "center"
                 },
                 "children": [
@@ -507,7 +500,7 @@
                   "padding-bottom": "10px",
                   "padding-left": "10px",
                   "padding-right": "10px",
-                  "font-size": "14px",
+                  "font-size": "13px",
                   "line-height": "1.55",
                   "color": "#64748b",
                   "align": "center"
@@ -535,14 +528,14 @@
                 "type": "standard-image",
                 "data": {},
                 "attributes": {
-                  "padding-top": "14px",
-                  "padding-bottom": "10px",
+                  "padding-top": "10px",
+                  "padding-bottom": "8px",
                   "padding-left": "0px",
                   "padding-right": "0px",
                   "src": "https://cdn.shopify.com/s/files/1/0863/8971/9346/files/5dqwaoagcmphruegpcz3z_image.png",
                   "fluid-on-mobile": "true",
-                  "width": "96px",
-                  "border-radius": "8px"
+                  "width": "72px",
+                  "border-radius": "6px"
                 },
                 "children": [
                   {
@@ -559,9 +552,9 @@
                   "padding-bottom": "4px",
                   "padding-left": "10px",
                   "padding-right": "10px",
-                  "font-size": "17px",
+                  "font-size": "16px",
                   "font-weight": "800",
-                  "color": "#111827",
+                  "color": "#0f172a",
                   "align": "center"
                 },
                 "children": [
@@ -579,7 +572,7 @@
                   "padding-bottom": "10px",
                   "padding-left": "10px",
                   "padding-right": "10px",
-                  "font-size": "14px",
+                  "font-size": "13px",
                   "line-height": "1.55",
                   "color": "#64748b",
                   "align": "center"
@@ -603,8 +596,8 @@
         "attributes": {
           "padding-left": "30px",
           "padding-right": "30px",
-          "padding-top": "42px",
-          "padding-bottom": "48px",
+          "padding-top": "36px",
+          "padding-bottom": "40px",
           "background-color": "#f8fafc"
         },
         "children": [
@@ -623,9 +616,9 @@
                   "padding-bottom": "0px",
                   "padding-left": "0px",
                   "padding-right": "0px",
-                  "width": "330px",
+                  "width": "300px",
                   "src": "https://cdn.shopify.com/s/files/1/0863/8971/9346/files/xzjmuzkk7kekqbwfrbsis_feature-custom-block-code-preview.png",
-                  "border-radius": "10px"
+                  "border-radius": "8px"
                 },
                 "children": [
                   {
@@ -657,18 +650,18 @@
                   "padding-bottom": "0px",
                   "padding-left": "0px",
                   "padding-right": "0px",
-                  "font-size": "30px",
+                  "font-size": "28px",
                   "align": "left",
-                  "line-height": "1.15",
+                  "line-height": "1.2",
                   "font-weight": "800",
-                  "color": "#111827"
+                  "color": "#0f172a"
                 },
                 "children": [
                   {
                     "type": "html-block-node",
                     "children": [
                       {
-                        "text": "A calmer way to"
+                        "text": "Design, reuse,"
                       }
                     ],
                     "attributes": {},
@@ -679,29 +672,16 @@
                   },
                   {
                     "type": "html-block-node",
-                    "attributes": {},
-                    "data": {
-                      "tagName": "div"
-                    },
-                    "id": "Eeoatx-ketFMNVUmle6-J",
                     "children": [
                       {
-                        "text": "ship beautiful"
-                      }
-                    ]
-                  },
-                  {
-                    "type": "html-block-node",
-                    "children": [
-                      {
-                        "text": "campaign emails"
+                        "text": "and export faster"
                       }
                     ],
                     "attributes": {},
                     "data": {
                       "tagName": "div"
                     },
-                    "id": "W0R-zl9HqmKZQx9ZqT_98"
+                    "id": "Eeoatx-ketFMNVUmle6-J"
                   }
                 ],
                 "id": "XjD3qiwL2V4liGG9cEZdU"
@@ -721,7 +701,7 @@
                 },
                 "children": [
                   {
-                    "text": "Use a polished editing surface, reusable design patterns, and responsive previews to keep every campaign sharp from the first draft."
+                    "text": "Use a clean editing surface, shared design blocks, and responsive previews to keep every campaign consistent before it ships."
                   }
                 ],
                 "id": "vhkFMa8LQ-0i2Qzd5O10F"
@@ -736,11 +716,11 @@
                   "padding-bottom": "10px",
                   "padding-left": "0px",
                   "padding-right": "0px",
-                  "background-color": "#111827",
+                  "background-color": "#0f172a",
                   "align": "left",
                   "href": "https://www.easyemail.pro/",
                   "color": "#ffffff",
-                  "border-radius": "8px",
+                  "border-radius": "6px",
                   "font-weight": "800"
                 },
                 "children": [
@@ -772,15 +752,15 @@
             "type": "standard-section",
             "data": {},
             "attributes": {
-              "background-color": "#ede9fe",
+              "background-color": "#eff6ff",
               "background-image-enabled": false,
               "background-url": "https://www.easyemail.pro/_next/static/media/easy-email-pro.0x_s2ydn-o_g9.svg",
               "background-size": "contain",
-              "border-radius": "10px",
+              "border-radius": "8px",
               "background-position": "left center",
               "background-repeat": "no-repeat",
-              "padding-top": "24px",
-              "padding-bottom": "24px"
+              "padding-top": "22px",
+              "padding-bottom": "22px"
             },
             "children": [
               {
@@ -799,9 +779,9 @@
                       "padding-left": "24px",
                       "padding-right": "16px",
                       "align": "left",
-                      "font-size": "23px",
+                      "font-size": "22px",
                       "font-family": "inter",
-                      "color": "#20143b",
+                      "color": "#0f172a",
                       "line-height": "1.35",
                       "font-weight": "800"
                     },
@@ -810,7 +790,7 @@
                         "type": "html-block-node",
                         "children": [
                           {
-                            "text": "Ready for a better email builder?"
+                            "text": "Ready for a cleaner email builder?"
                           }
                         ],
                         "attributes": {},
@@ -823,7 +803,7 @@
                         "type": "html-block-node",
                         "children": [
                           {
-                            "text": "Start with Easy Email Pro and create campaigns"
+                            "text": "Create polished campaigns with Easy Email Pro."
                           }
                         ],
                         "attributes": {},
@@ -831,19 +811,6 @@
                           "tagName": "div"
                         },
                         "id": "L1QwoFOCepil0iDHeCVAN"
-                      },
-                      {
-                        "type": "html-block-node",
-                        "attributes": {},
-                        "data": {
-                          "tagName": "div"
-                        },
-                        "id": "ZOXqtz0NBgAjIe0iZmcwk",
-                        "children": [
-                          {
-                            "text": "that feel polished before they ship."
-                          }
-                        ]
                       }
                     ],
                     "id": "0BSuIfY3upCPvEAHO1OVQ",
@@ -871,8 +838,8 @@
                       "padding-bottom": "10px",
                       "padding-left": "0px",
                       "padding-right": "0px",
-                      "background-color": "#7c3aed",
-                      "border-radius": "8px",
+                      "background-color": "#2563eb",
+                      "border-radius": "6px",
                       "font-weight": "800",
                       "href": "https://www.easyemail.pro/",
                       "color": "#ffffff"
@@ -900,8 +867,8 @@
           "spacing": "8px",
           "icon-size": "24px",
           "mode": "horizontal",
-          "padding-top": "24px",
-          "padding-bottom": "12px"
+          "padding-top": "22px",
+          "padding-bottom": "10px"
         },
         "children": [
           {
@@ -913,7 +880,7 @@
               }
             ],
             "attributes": {
-              "href": "",
+              "href": "https://www.easyemail.pro/",
               "padding-left": "0px",
               "padding-right": "0px",
               "padding-top": "0px",
@@ -932,7 +899,7 @@
               }
             ],
             "attributes": {
-              "href": "",
+              "href": "https://www.easyemail.pro/",
               "padding-left": "8px",
               "padding-right": "0px",
               "padding-top": "0px",
@@ -951,7 +918,7 @@
               }
             ],
             "attributes": {
-              "href": "",
+              "href": "https://www.easyemail.pro/",
               "padding-left": "8px",
               "padding-right": "0px",
               "padding-top": "0px",
@@ -970,7 +937,7 @@
               }
             ],
             "attributes": {
-              "href": "",
+              "href": "https://www.easyemail.pro/",
               "padding-left": "8px",
               "padding-right": "0px",
               "padding-top": "0px",
@@ -1148,7 +1115,7 @@
       }
     ],
     "attributes": {
-      "background-color": "#f3f6fb",
+      "background-color": "#eef2f7",
       "content-background-color": "#ffffff"
     },
     "id": "DnWP8fKH9a3AAZtF9c1Zy"
