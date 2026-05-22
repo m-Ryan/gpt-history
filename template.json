@@ -1,5 +1,5 @@
 {
-  "subject": "JOIN US FOR A FEAST ON",
+  "subject": "Zalify：把每一次邮件触达变成增长机会",
   "content": {
     "data": {
       "breakpoint": "480px",
@@ -40,17 +40,18 @@
                 "type": "standard-paragraph",
                 "data": {},
                 "attributes": {
-                  "padding-top": "10px",
-                  "padding-bottom": "10px",
+                  "padding-top": "18px",
+                  "padding-bottom": "8px",
                   "padding-left": "10px",
                   "padding-right": "10px",
-                  "font-size": "25px",
+                  "font-size": "24px",
                   "font-weight": "700",
-                  "color": "#1f2937"
+                  "color": "#0b5870",
+                  "align": "center"
                 },
                 "children": [
                   {
-                    "text": "LUMINA"
+                    "text": "ZALIFY"
                   }
                 ],
                 "id": "cCwG64F7LAa4LnCtmlfTQ"
@@ -60,13 +61,14 @@
                 "data": {},
                 "attributes": {
                   "padding-top": "0px",
-                  "padding-bottom": "0px",
+                  "padding-bottom": "12px",
                   "padding-left": "0px",
                   "padding-right": "0px",
                   "item-padding-left": "15px",
                   "item-padding-right": "15px",
-                  "font-size": "14px",
-                  "font-weight": "700"
+                  "font-size": "13px",
+                  "font-weight": "700",
+                  "color": "#0b5870"
                 },
                 "children": [
                   {
@@ -74,15 +76,16 @@
                     "type": "standard-navbar-link",
                     "children": [
                       {
-                        "text": "NEW IN"
+                        "text": "功能"
                       }
                     ],
                     "attributes": {
                       "href": "",
                       "padding-left": "15px",
                       "padding-right": "15px",
-                      "font-size": "14px",
-                      "font-weight": "700"
+                      "font-size": "13px",
+                      "font-weight": "700",
+                      "color": "#0b5870"
                     },
                     "id": "HMAhL1hImBfWrGInEVfgQ"
                   },
@@ -91,15 +94,16 @@
                     "type": "standard-navbar-link",
                     "children": [
                       {
-                        "text": "SHOP"
+                        "text": "案例"
                       }
                     ],
                     "attributes": {
                       "href": "",
                       "padding-left": "15px",
                       "padding-right": "15px",
-                      "font-size": "14px",
-                      "font-weight": "700"
+                      "font-size": "13px",
+                      "font-weight": "700",
+                      "color": "#0b5870"
                     },
                     "id": "69Y1eNcoZXPjTCBbg_wL4"
                   },
@@ -108,15 +112,16 @@
                     "type": "standard-navbar-link",
                     "children": [
                       {
-                        "text": "BEST SELLERS"
+                        "text": "方案"
                       }
                     ],
                     "attributes": {
                       "href": "",
                       "padding-left": "15px",
                       "padding-right": "15px",
-                      "font-size": "14px",
-                      "font-weight": "700"
+                      "font-size": "13px",
+                      "font-weight": "700",
+                      "color": "#0b5870"
                     },
                     "id": "0BQ7csrOL_3929Ytwfwl5"
                   },
@@ -125,15 +130,16 @@
                     "type": "standard-navbar-link",
                     "children": [
                       {
-                        "text": "SALE"
+                        "text": "立即体验"
                       }
                     ],
                     "attributes": {
                       "href": "",
                       "padding-left": "15px",
                       "padding-right": "15px",
-                      "font-size": "14px",
-                      "font-weight": "700"
+                      "font-size": "13px",
+                      "font-weight": "700",
+                      "color": "#0b5870"
                     },
                     "id": "kUmsqEhG9h4BOjfyAUxWT"
                   }
@@ -150,14 +156,14 @@
         "type": "standard-section",
         "data": {},
         "attributes": {
-          "padding-top": "100px",
-          "padding-bottom": "100px",
-          "background-image-enabled": true,
-          "background-url": "https://cdn.shopify.com/s/files/1/0863/8971/9346/files/jzr-ybeslwgfd1zwcpnmu_image.png",
-          "padding-left": "30px",
-          "padding-right": "30px",
+          "padding-top": "28px",
+          "padding-bottom": "28px",
+          "background-image-enabled": false,
+          "background-url": "",
+          "padding-left": "36px",
+          "padding-right": "36px",
           "background-size": "cover",
-          "background-color": "#dfdae7"
+          "background-color": "#0b5870"
         },
         "children": [
           {
@@ -171,10 +177,11 @@
                 "type": "standard-paragraph",
                 "data": {},
                 "attributes": {
-                  "color": "#1f2937",
-                  "align": "left",
-                  "font-size": "47px",
-                  "line-height": "1.1"
+                  "color": "#ffffff",
+                  "align": "center",
+                  "font-size": "26px",
+                  "line-height": "1.25",
+                  "font-weight": "700"
                 },
                 "children": [
                   {
@@ -184,7 +191,7 @@
                         "type": "html-block-node",
                         "children": [
                           {
-                            "text": "New season,"
+                            "text": "让每封营销邮件"
                           }
                         ],
                         "attributes": {},
@@ -197,7 +204,7 @@
                         "type": "html-block-node",
                         "children": [
                           {
-                            "text": "new inspiration"
+                            "text": "都更容易转化"
                           }
                         ],
                         "attributes": {},
@@ -220,10 +227,12 @@
                 "type": "standard-paragraph",
                 "data": {},
                 "attributes": {
-                  "color": "#000000",
-                  "align": "left",
-                  "font-size": "16px",
-                  "line-height": "1.5"
+                  "color": "#d7f0f5",
+                  "align": "center",
+                  "font-size": "15px",
+                  "line-height": "1.6",
+                  "padding-top": "14px",
+                  "padding-bottom": "4px"
                 },
                 "children": [
                   {
@@ -236,7 +245,7 @@
                             "type": "html-block-node",
                             "children": [
                               {
-                                "text": "Fresh styles, thoughtful design,"
+                                "text": "用 Zalify 快速搭建邮件活动、追踪表现，"
                               }
                             ],
                             "attributes": {},
@@ -249,7 +258,7 @@
                             "type": "html-block-node",
                             "children": [
                               {
-                                "text": "made for your everyday"
+                                "text": "把优惠、卖点和购买入口清楚送达用户。"
                               }
                             ],
                             "attributes": {},
@@ -281,14 +290,16 @@
                   "content": "Button"
                 },
                 "attributes": {
-                  "padding-top": "30px",
-                  "padding-bottom": "30px",
-                  "background-color": "#000000",
-                  "align": "left"
+                  "padding-top": "18px",
+                  "padding-bottom": "6px",
+                  "background-color": "#f36f45",
+                  "align": "center",
+                  "border-radius": "4px",
+                  "font-weight": "700"
                 },
                 "children": [
                   {
-                    "text": "SHOP COLLECTION"
+                    "text": "立即创建活动"
                   }
                 ],
                 "id": "9WMZiMTrnlvIlz0Qm_X6e"
@@ -323,15 +334,18 @@
                 "type": "standard-paragraph",
                 "data": {},
                 "attributes": {
-                  "padding-top": "10px",
-                  "padding-bottom": "10px",
+                  "padding-top": "28px",
+                  "padding-bottom": "20px",
                   "padding-left": "10px",
                   "padding-right": "10px",
-                  "font-size": "29px"
+                  "font-size": "18px",
+                  "align": "center",
+                  "color": "#111827",
+                  "line-height": "1.45"
                 },
                 "children": [
                   {
-                    "text": "Our bestsellers"
+                    "text": "无需复杂工具，也能做出清晰、有行动引导的营销邮件。"
                   }
                 ],
                 "id": "1WwA2t0UexmrbWLJSL9Bn"
@@ -346,8 +360,9 @@
         "type": "standard-section",
         "data": {},
         "attributes": {
-          "padding-left": "20px",
-          "padding-right": "20px"
+          "padding-left": "28px",
+          "padding-right": "28px",
+          "padding-bottom": "24px"
         },
         "children": [
           {
@@ -362,11 +377,13 @@
                 "data": {},
                 "attributes": {
                   "padding-top": "0px",
-                  "padding-bottom": "0px",
+                  "padding-bottom": "8px",
                   "padding-left": "10px",
                   "padding-right": "10px",
                   "src": "https://cdn.shopify.com/s/files/1/0863/8971/9346/files/z8j3q5va8vyfd54-x4s6d_image.png",
-                  "fluid-on-mobile": "true"
+                  "fluid-on-mobile": "true",
+                  "width": "90px",
+                  "border-radius": "0px"
                 },
                 "children": [
                   {
@@ -380,13 +397,17 @@
                 "data": {},
                 "attributes": {
                   "padding-top": "10px",
-                  "padding-bottom": "10px",
+                  "padding-bottom": "4px",
                   "padding-left": "10px",
-                  "padding-right": "10px"
+                  "padding-right": "10px",
+                  "align": "center",
+                  "font-weight": "700",
+                  "font-size": "15px",
+                  "color": "#111827"
                 },
                 "children": [
                   {
-                    "text": "Ridge Ceramic Vase"
+                    "text": "突出核心卖点"
                   }
                 ],
                 "id": "2UROuxGf3sInvEznB0NvE"
@@ -398,11 +419,15 @@
                   "padding-top": "0px",
                   "padding-bottom": "10px",
                   "padding-left": "10px",
-                  "padding-right": "10px"
+                  "padding-right": "10px",
+                  "align": "center",
+                  "font-size": "13px",
+                  "color": "#4b5563",
+                  "line-height": "1.45"
                 },
                 "children": [
                   {
-                    "text": "$42.00"
+                    "text": "用清楚的标题、价格和优惠信息，让用户第一眼看到购买理由。"
                   }
                 ],
                 "id": "xFyOIU25dTseNRuUYXvRP"
@@ -422,11 +447,13 @@
                 "data": {},
                 "attributes": {
                   "padding-top": "0px",
-                  "padding-bottom": "0px",
+                  "padding-bottom": "8px",
                   "padding-left": "10px",
                   "padding-right": "10px",
                   "src": "https://cdn.shopify.com/s/files/1/0863/8971/9346/files/bwyhbi-ggz4uh_a-23g1l_image.png",
-                  "fluid-on-mobile": "true"
+                  "fluid-on-mobile": "true",
+                  "width": "90px",
+                  "border-radius": "0px"
                 },
                 "children": [
                   {
@@ -440,13 +467,17 @@
                 "data": {},
                 "attributes": {
                   "padding-top": "10px",
-                  "padding-bottom": "10px",
+                  "padding-bottom": "4px",
                   "padding-left": "10px",
-                  "padding-right": "10px"
+                  "padding-right": "10px",
+                  "align": "center",
+                  "font-weight": "700",
+                  "font-size": "15px",
+                  "color": "#111827"
                 },
                 "children": [
                   {
-                    "text": "Sage Candle"
+                    "text": "强化行动路径"
                   }
                 ],
                 "id": "4558dIsb9oqP2dBqppLfj"
@@ -458,11 +489,15 @@
                   "padding-top": "0px",
                   "padding-bottom": "10px",
                   "padding-left": "10px",
-                  "padding-right": "10px"
+                  "padding-right": "10px",
+                  "align": "center",
+                  "font-size": "13px",
+                  "color": "#4b5563",
+                  "line-height": "1.45"
                 },
                 "children": [
                   {
-                    "text": "$36.00"
+                    "text": "按钮文案更直接，减少犹豫，把点击入口放在用户最容易行动的位置。"
                   }
                 ],
                 "id": "adeBZuVsFjZuF-6JUxdLV"
@@ -482,11 +517,13 @@
                 "data": {},
                 "attributes": {
                   "padding-top": "0px",
-                  "padding-bottom": "0px",
+                  "padding-bottom": "8px",
                   "padding-left": "10px",
                   "padding-right": "10px",
                   "src": "https://cdn.shopify.com/s/files/1/0863/8971/9346/files/doeqcnjgeptwb7ksu20cl_image.png",
-                  "fluid-on-mobile": "true"
+                  "fluid-on-mobile": "true",
+                  "width": "90px",
+                  "border-radius": "0px"
                 },
                 "children": [
                   {
@@ -500,13 +537,17 @@
                 "data": {},
                 "attributes": {
                   "padding-top": "10px",
-                  "padding-bottom": "10px",
+                  "padding-bottom": "4px",
                   "padding-left": "10px",
-                  "padding-right": "10px"
+                  "padding-right": "10px",
+                  "align": "center",
+                  "font-weight": "700",
+                  "font-size": "15px",
+                  "color": "#111827"
                 },
                 "children": [
                   {
-                    "text": "Marlo Table Lamp"
+                    "text": "持续追踪优化"
                   }
                 ],
                 "id": "PXFMbAkNPNaziZZLNxc7u"
@@ -518,11 +559,15 @@
                   "padding-top": "0px",
                   "padding-bottom": "10px",
                   "padding-left": "10px",
-                  "padding-right": "10px"
+                  "padding-right": "10px",
+                  "align": "center",
+                  "font-size": "13px",
+                  "color": "#4b5563",
+                  "line-height": "1.45"
                 },
                 "children": [
                   {
-                    "text": "$68.00"
+                    "text": "关注打开、点击和转化反馈，快速迭代下一轮邮件内容。"
                   }
                 ],
                 "id": "VJyuGuQPcxeD0D1IbWLt2"
@@ -537,10 +582,10 @@
         "type": "standard-section",
         "data": {},
         "attributes": {
-          "padding-left": "20px",
-          "padding-right": "20px",
-          "padding-top": "0px",
-          "padding-bottom": "0px"
+          "padding-left": "34px",
+          "padding-right": "34px",
+          "padding-top": "10px",
+          "padding-bottom": "28px"
         },
         "children": [
           {
@@ -556,11 +601,11 @@
                 "attributes": {
                   "padding-top": "0px",
                   "padding-bottom": "0px",
-                  "padding-left": "10px",
-                  "padding-right": "10px",
-                  "width": "367px",
+                  "padding-left": "0px",
+                  "padding-right": "20px",
+                  "width": "190px",
                   "src": "https://cdn.shopify.com/s/files/1/0863/8971/9346/files/vw_5_ny93ktmz-tgxuv5a_image.png",
-                  "border-radius": "15px"
+                  "border-radius": "0px"
                 },
                 "children": [
                   {
@@ -588,20 +633,22 @@
                 "type": "standard-paragraph",
                 "data": {},
                 "attributes": {
-                  "padding-top": "20px",
+                  "padding-top": "8px",
                   "padding-bottom": "0px",
                   "padding-left": "0px",
                   "padding-right": "0px",
-                  "font-size": "29px",
+                  "font-size": "22px",
                   "align": "left",
-                  "line-height": "1.1"
+                  "line-height": "1.2",
+                  "color": "#111827",
+                  "font-weight": "700"
                 },
                 "children": [
                   {
                     "type": "html-block-node",
                     "children": [
                       {
-                        "text": "Timeless "
+                        "text": "个性化触达，"
                       }
                     ],
                     "attributes": {},
@@ -619,7 +666,7 @@
                     "id": "Eeoatx-ketFMNVUmle6-J",
                     "children": [
                       {
-                        "text": "pieces,"
+                        "text": "让内容更像"
                       }
                     ]
                   },
@@ -627,7 +674,7 @@
                     "type": "html-block-node",
                     "children": [
                       {
-                        "text": "made to stay"
+                        "text": "为客户而写"
                       }
                     ],
                     "attributes": {},
@@ -647,11 +694,14 @@
                   "padding-bottom": "10px",
                   "padding-left": "0px",
                   "padding-right": "0px",
-                  "align": "left"
+                  "align": "left",
+                  "font-size": "14px",
+                  "color": "#374151",
+                  "line-height": "1.55"
                 },
                 "children": [
                   {
-                    "text": "Thoughtful design and quality materials that bring beauty to the everyday."
+                    "text": "按客户阶段、兴趣和购买意向组织邮件内容，让促销不只像通知，而是一次明确的下一步邀请。"
                   }
                 ],
                 "id": "vhkFMa8LQ-0i2Qzd5O10F"
@@ -666,12 +716,14 @@
                   "padding-bottom": "10px",
                   "padding-left": "0px",
                   "padding-right": "0px",
-                  "background-color": "#000000",
-                  "align": "left"
+                  "background-color": "#0b5870",
+                  "align": "left",
+                  "border-radius": "4px",
+                  "font-weight": "700"
                 },
                 "children": [
                   {
-                    "text": "EXPLORE THE EDIT"
+                    "text": "查看更多方案"
                   }
                 ],
                 "id": "rJ7rH33r92OmDTvJC2gOv"
@@ -695,11 +747,13 @@
             "type": "standard-section",
             "data": {},
             "attributes": {
-              "background-color": "#efe9ff",
+              "background-color": "#0b5870",
               "background-image-enabled": false,
               "background-url": "https://cdn.shopify.com/s/files/1/0863/8971/9346/files/q16fweuuy2-yqxjn0fgyt_image.png",
               "background-size": "contain",
-              "border-radius": "8px"
+              "border-radius": "0px",
+              "padding-top": "14px",
+              "padding-bottom": "14px"
             },
             "children": [
               {
@@ -717,18 +771,18 @@
                       "padding-bottom": "0px",
                       "padding-left": "10px",
                       "padding-right": "10px",
-                      "align": "right",
-                      "font-size": "21px",
+                      "align": "left",
+                      "font-size": "19px",
                       "font-family": "inter",
-                      "color": "#282e46",
-                      "line-height": "1.1"
+                      "color": "#ffffff",
+                      "line-height": "1.3"
                     },
                     "children": [
                       {
                         "type": "html-block-node",
                         "children": [
                           {
-                            "text": "15% off your first order"
+                            "text": "准备好提升下一封邮件的转化率？"
                           }
                         ],
                         "attributes": {},
@@ -741,9 +795,7 @@
                         "type": "html-block-node",
                         "children": [
                           {
-                            "text": "Sign up for our emails and enjoy ",
-                            "fontSize": "14px",
-                            "color": "#736e9a"
+                            "text": "用 Zalify 快速完成从内容、优惠到 CTA 的优化。"
                           }
                         ],
                         "attributes": {},
@@ -761,9 +813,7 @@
                         "id": "ZOXqtz0NBgAjIe0iZmcwk",
                         "children": [
                           {
-                            "text": "15% off your first order.",
-                            "fontSize": "14px",
-                            "color": "#736e9a"
+                            "text": ""
                           }
                         ]
                       }
@@ -793,13 +843,13 @@
                       "padding-bottom": "10px",
                       "padding-left": "0px",
                       "padding-right": "0px",
-                      "background-color": "#6d3edb",
-                      "border-radius": "5px",
+                      "background-color": "#f36f45",
+                      "border-radius": "4px",
                       "font-weight": "700"
                     },
                     "children": [
                       {
-                        "text": "GET THE CODE"
+                        "text": "开始使用"
                       }
                     ],
                     "id": "ioZ8njBjM5-gf6f_pkTv3"
@@ -818,9 +868,9 @@
         "data": {},
         "attributes": {
           "spacing": "8px",
-          "icon-size": "30px",
+          "icon-size": "24px",
           "mode": "horizontal",
-          "padding-top": "20px",
+          "padding-top": "16px",
           "padding-bottom": "10px"
         },
         "children": [
@@ -940,15 +990,16 @@
             "type": "standard-navbar-link",
             "children": [
               {
-                "text": "NEW IN"
+                "text": "功能"
               }
             ],
             "attributes": {
               "href": "",
               "padding-left": "15px",
               "padding-right": "15px",
-              "font-size": "14px",
-              "font-weight": "700"
+              "font-size": "13px",
+              "font-weight": "700",
+              "color": "#0b5870"
             },
             "id": "q25if7fGsXeBrFSGxNS44"
           },
@@ -957,15 +1008,16 @@
             "type": "standard-navbar-link",
             "children": [
               {
-                "text": "SHOP"
+                "text": "案例"
               }
             ],
             "attributes": {
               "href": "",
               "padding-left": "15px",
               "padding-right": "15px",
-              "font-size": "14px",
-              "font-weight": "700"
+              "font-size": "13px",
+              "font-weight": "700",
+              "color": "#0b5870"
             },
             "id": "ng1gEQB3tl8tlBPboL24k"
           },
@@ -974,15 +1026,16 @@
             "type": "standard-navbar-link",
             "children": [
               {
-                "text": "BEST SELLERS"
+                "text": "方案"
               }
             ],
             "attributes": {
               "href": "",
               "padding-left": "15px",
               "padding-right": "15px",
-              "font-size": "14px",
-              "font-weight": "700"
+              "font-size": "13px",
+              "font-weight": "700",
+              "color": "#0b5870"
             },
             "id": "fucB8CrLaZeMjd4LctaZP"
           },
@@ -991,15 +1044,16 @@
             "type": "standard-navbar-link",
             "children": [
               {
-                "text": "SALE"
+                "text": "联系我们"
               }
             ],
             "attributes": {
               "href": "",
               "padding-left": "15px",
               "padding-right": "15px",
-              "font-size": "14px",
-              "font-weight": "700"
+              "font-size": "13px",
+              "font-weight": "700",
+              "color": "#0b5870"
             },
             "id": "XQDvaTAplCKgtXr7GM-uw"
           }
@@ -1014,15 +1068,17 @@
           "padding-bottom": "10px",
           "padding-left": "10px",
           "padding-right": "10px",
-          "color": "#667085",
-          "font-size": "14px"
+          "color": "#6b7280",
+          "font-size": "12px",
+          "align": "center",
+          "line-height": "1.5"
         },
         "children": [
           {
             "type": "html-block-node",
             "children": [
               {
-                "text": "123 Design Way, San Francisco, CA 94107, USA"
+                "text": "Zalify"
               }
             ],
             "attributes": {},
@@ -1035,7 +1091,7 @@
             "type": "html-block-node",
             "children": [
               {
-                "text": "You're receiving this email because you signed up on our website."
+                "text": "你收到这封邮件，是因为你关注了 Zalify 的产品与营销更新。"
               }
             ],
             "attributes": {},
@@ -1048,11 +1104,7 @@
             "type": "html-block-node",
             "children": [
               {
-                "text": "Unsubscribe",
-                "link": {
-                  "href": "{{ common.unsubscribe }}",
-                  "blank": true
-                }
+                "text": "取消订阅"
               }
             ],
             "attributes": {},
@@ -1067,7 +1119,7 @@
       }
     ],
     "attributes": {
-      "background-color": "#f5f5f5",
+      "background-color": "#f6f8fb",
       "content-background-color": "#ffffff"
     },
     "id": "DnWP8fKH9a3AAZtF9c1Zy"
