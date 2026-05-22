@@ -1,0 +1,12 @@
+{
+  "subject": "New email",
+  "content": {
+    "type": "page",
+    "data": {},
+    "attributes": {
+      "width": "600px",
+      "background-color": "#ffffff"
+    },
+    "children": []
+  }
+}
