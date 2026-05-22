@@ -46,7 +46,7 @@
                   "padding-right": "10px",
                   "font-size": "24px",
                   "font-weight": "700",
-                  "color": "#78a800",
+                  "color": "#d71920",
                   "align": "center"
                 },
                 "children": [
@@ -68,7 +68,7 @@
                   "item-padding-right": "15px",
                   "font-size": "13px",
                   "font-weight": "700",
-                  "color": "#78a800"
+                  "color": "#d71920"
                 },
                 "children": [
                   {
@@ -85,7 +85,7 @@
                       "padding-right": "15px",
                       "font-size": "13px",
                       "font-weight": "700",
-                      "color": "#78a800"
+                      "color": "#d71920"
                     },
                     "id": "HMAhL1hImBfWrGInEVfgQ"
                   },
@@ -103,7 +103,7 @@
                       "padding-right": "15px",
                       "font-size": "13px",
                       "font-weight": "700",
-                      "color": "#78a800"
+                      "color": "#d71920"
                     },
                     "id": "69Y1eNcoZXPjTCBbg_wL4"
                   },
@@ -121,7 +121,7 @@
                       "padding-right": "15px",
                       "font-size": "13px",
                       "font-weight": "700",
-                      "color": "#78a800"
+                      "color": "#d71920"
                     },
                     "id": "0BQ7csrOL_3929Ytwfwl5"
                   },
@@ -139,7 +139,7 @@
                       "padding-right": "15px",
                       "font-size": "13px",
                       "font-weight": "700",
-                      "color": "#78a800"
+                      "color": "#d71920"
                     },
                     "id": "kUmsqEhG9h4BOjfyAUxWT"
                   }
@@ -163,7 +163,7 @@
           "padding-left": "36px",
           "padding-right": "36px",
           "background-size": "cover",
-          "background-color": "#78a800"
+          "background-color": "#d71920"
         },
         "children": [
           {
@@ -716,7 +716,7 @@
                   "padding-bottom": "10px",
                   "padding-left": "0px",
                   "padding-right": "0px",
-                  "background-color": "#78a800",
+                  "background-color": "#d71920",
                   "align": "left",
                   "border-radius": "4px",
                   "font-weight": "700"
@@ -747,7 +747,7 @@
             "type": "standard-section",
             "data": {},
             "attributes": {
-              "background-color": "#78a800",
+              "background-color": "#d71920",
               "background-image-enabled": false,
               "background-url": "https://cdn.shopify.com/s/files/1/0863/8971/9346/files/q16fweuuy2-yqxjn0fgyt_image.png",
               "background-size": "contain",
@@ -999,7 +999,7 @@
               "padding-right": "15px",
               "font-size": "13px",
               "font-weight": "700",
-              "color": "#78a800"
+              "color": "#d71920"
             },
             "id": "q25if7fGsXeBrFSGxNS44"
           },
@@ -1017,7 +1017,7 @@
               "padding-right": "15px",
               "font-size": "13px",
               "font-weight": "700",
-              "color": "#78a800"
+              "color": "#d71920"
             },
             "id": "ng1gEQB3tl8tlBPboL24k"
           },
@@ -1035,7 +1035,7 @@
               "padding-right": "15px",
               "font-size": "13px",
               "font-weight": "700",
-              "color": "#78a800"
+              "color": "#d71920"
             },
             "id": "fucB8CrLaZeMjd4LctaZP"
           },
@@ -1053,7 +1053,7 @@
               "padding-right": "15px",
               "font-size": "13px",
               "font-weight": "700",
-              "color": "#78a800"
+              "color": "#d71920"
             },
             "id": "XQDvaTAplCKgtXr7GM-uw"
           }
