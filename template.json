@@ -1,1 +1,277 @@
-null
+{
+  "type": "page",
+  "data": {
+    "breakpoint": "480px"
+  },
+  "attributes": {
+    "width": "600px",
+    "background-color": "#f4f7fb",
+    "font-family": "Arial, sans-serif"
+  },
+  "children": [
+    {
+      "type": "standard-section",
+      "data": {},
+      "attributes": {
+        "background-color": "#0f172a",
+        "padding-top": "28px",
+        "padding-right": "0px",
+        "padding-bottom": "24px",
+        "padding-left": "0px"
+      },
+      "children": [
+        {
+          "type": "standard-column",
+          "data": {},
+          "attributes": {
+            "width": "100%"
+          },
+          "children": [
+            {
+              "type": "standard-paragraph",
+              "data": {},
+              "attributes": {
+                "align": "left",
+                "color": "#ffffff",
+                "font-size": "15px",
+                "font-weight": "700",
+                "line-height": "1.4",
+                "padding-top": "0px",
+                "padding-right": "32px",
+                "padding-bottom": "18px",
+                "padding-left": "32px"
+              },
+              "children": [
+                {
+                  "text": "Zalify"
+                }
+              ]
+            },
+            {
+              "type": "standard-paragraph",
+              "data": {},
+              "attributes": {
+                "align": "left",
+                "color": "#ffffff",
+                "font-size": "28px",
+                "font-weight": "700",
+                "line-height": "1.25",
+                "padding-top": "0px",
+                "padding-right": "32px",
+                "padding-bottom": "12px",
+                "padding-left": "32px"
+              },
+              "children": [
+                {
+                  "text": "用更聪明的方式推动业务增长"
+                }
+              ]
+            },
+            {
+              "type": "standard-paragraph",
+              "data": {},
+              "attributes": {
+                "align": "left",
+                "color": "#cbd5e1",
+                "font-size": "15px",
+                "line-height": "1.7",
+                "padding-top": "0px",
+                "padding-right": "32px",
+                "padding-bottom": "4px",
+                "padding-left": "32px"
+              },
+              "children": [
+                {
+                  "text": "Zalify 帮助团队把客户触达、营销转化与增长运营连接起来，让每一次沟通都更清晰、更高效。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "standard-section",
+      "data": {},
+      "attributes": {
+        "background-color": "#ffffff",
+        "padding-top": "28px",
+        "padding-right": "0px",
+        "padding-bottom": "24px",
+        "padding-left": "0px"
+      },
+      "children": [
+        {
+          "type": "standard-column",
+          "data": {},
+          "attributes": {
+            "width": "100%"
+          },
+          "children": [
+            {
+              "type": "standard-paragraph",
+              "data": {},
+              "attributes": {
+                "align": "left",
+                "color": "#111827",
+                "font-size": "16px",
+                "line-height": "1.7",
+                "padding-top": "0px",
+                "padding-right": "32px",
+                "padding-bottom": "14px",
+                "padding-left": "32px"
+              },
+              "children": [
+                {
+                  "text": "您好，"
+                }
+              ]
+            },
+            {
+              "type": "standard-paragraph",
+              "data": {},
+              "attributes": {
+                "align": "left",
+                "color": "#374151",
+                "font-size": "16px",
+                "line-height": "1.7",
+                "padding-top": "0px",
+                "padding-right": "32px",
+                "padding-bottom": "16px",
+                "padding-left": "32px"
+              },
+              "children": [
+                {
+                  "text": "如果您的团队正在寻找一种更轻量、更聚焦结果的方式来管理线上增长，Zalify 可以成为一个值得了解的选择。它围绕业务目标组织关键流程，帮助您更快看清机会、跟进客户并提升转化效率。"
+                }
+              ]
+            },
+            {
+              "type": "standard-paragraph",
+              "data": {},
+              "attributes": {
+                "align": "left",
+                "color": "#111827",
+                "font-size": "17px",
+                "font-weight": "700",
+                "line-height": "1.5",
+                "padding-top": "8px",
+                "padding-right": "32px",
+                "padding-bottom": "10px",
+                "padding-left": "32px"
+              },
+              "children": [
+                {
+                  "text": "为什么选择 Zalify？"
+                }
+              ]
+            },
+            {
+              "type": "standard-paragraph",
+              "data": {},
+              "attributes": {
+                "align": "left",
+                "color": "#374151",
+                "font-size": "15px",
+                "line-height": "1.8",
+                "padding-top": "0px",
+                "padding-right": "32px",
+                "padding-bottom": "18px",
+                "padding-left": "32px"
+              },
+              "children": [
+                {
+                  "text": "• 集中管理增长线索，减少信息分散\n• 优化客户触达节奏，让沟通更及时\n• 用清晰的数据反馈支持下一步决策"
+                }
+              ]
+            },
+            {
+              "type": "standard-button",
+              "data": {},
+              "attributes": {
+                "align": "left",
+                "href": "https://www.zalify.com",
+                "target": "_blank",
+                "background-color": "#2563eb",
+                "color": "#ffffff",
+                "font-size": "16px",
+                "font-weight": "700",
+                "border-radius": "6px",
+                "inner-padding": "13px 22px",
+                "padding-top": "6px",
+                "padding-right": "32px",
+                "padding-bottom": "24px",
+                "padding-left": "32px"
+              },
+              "children": [
+                {
+                  "text": "访问 Zalify 官网"
+                }
+              ]
+            },
+            {
+              "type": "standard-paragraph",
+              "data": {},
+              "attributes": {
+                "align": "left",
+                "color": "#6b7280",
+                "font-size": "14px",
+                "line-height": "1.7",
+                "padding-top": "0px",
+                "padding-right": "32px",
+                "padding-bottom": "4px",
+                "padding-left": "32px"
+              },
+              "children": [
+                {
+                  "text": "欢迎点击上方按钮了解更多，也可以直接回复此邮件，我们会根据您的业务需求提供更具体的建议。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "standard-section",
+      "data": {},
+      "attributes": {
+        "background-color": "#f8fafc",
+        "padding-top": "18px",
+        "padding-right": "0px",
+        "padding-bottom": "18px",
+        "padding-left": "0px"
+      },
+      "children": [
+        {
+          "type": "standard-column",
+          "data": {},
+          "attributes": {
+            "width": "100%"
+          },
+          "children": [
+            {
+              "type": "standard-paragraph",
+              "data": {},
+              "attributes": {
+                "align": "center",
+                "color": "#94a3b8",
+                "font-size": "12px",
+                "line-height": "1.6",
+                "padding-top": "0px",
+                "padding-right": "32px",
+                "padding-bottom": "0px",
+                "padding-left": "32px"
+              },
+              "children": [
+                {
+                  "text": "Zalify | www.zalify.com"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
