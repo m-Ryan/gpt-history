@@ -1,1 +1,452 @@
-null
+{
+  "type": "page",
+  "data": {
+    "breakpoint": "480px"
+  },
+  "attributes": {
+    "width": "600px",
+    "background-color": "#eef3f8"
+  },
+  "children": [
+    {
+      "type": "standard-section",
+      "id": "zalify-006",
+      "data": {},
+      "attributes": {
+        "background-color": "#ffffff",
+        "padding-top": "0px",
+        "padding-right": "0px",
+        "padding-bottom": "4px",
+        "padding-left": "0px"
+      },
+      "children": [
+        {
+          "type": "standard-column",
+          "id": "zalify-007",
+          "data": {},
+          "attributes": {
+            "width": "100%"
+          },
+          "children": [
+            {
+              "type": "standard-paragraph",
+              "id": "zalify-001",
+              "data": {},
+              "attributes": {
+                "font-family": "Arial, Helvetica, sans-serif",
+                "font-size": "16px",
+                "line-height": "1.6",
+                "color": "#0f172a",
+                "align": "center",
+                "padding-top": "28px",
+                "padding-right": "36px",
+                "padding-bottom": "8px",
+                "padding-left": "36px"
+              },
+              "children": [
+                {
+                  "text": "ZALIFY",
+                  "bold": true,
+                  "color": "#0f172a",
+                  "fontSize": "18px"
+                }
+              ]
+            },
+            {
+              "type": "standard-paragraph",
+              "id": "zalify-002",
+              "data": {},
+              "attributes": {
+                "font-family": "Arial, Helvetica, sans-serif",
+                "font-size": "30px",
+                "line-height": "1.25",
+                "color": "#0f172a",
+                "align": "center",
+                "padding-top": "0px",
+                "padding-right": "36px",
+                "padding-bottom": "16px",
+                "padding-left": "36px"
+              },
+              "children": [
+                {
+                  "text": "把营销增长，从灵感变成可执行的结果",
+                  "bold": true,
+                  "color": "#0f172a",
+                  "fontSize": "30px"
+                }
+              ]
+            },
+            {
+              "type": "standard-paragraph",
+              "id": "zalify-003",
+              "data": {},
+              "attributes": {
+                "font-family": "Arial, Helvetica, sans-serif",
+                "font-size": "16px",
+                "line-height": "1.6",
+                "color": "#475569",
+                "align": "center",
+                "padding-top": "0px",
+                "padding-right": "36px",
+                "padding-bottom": "24px",
+                "padding-left": "36px"
+              },
+              "children": [
+                {
+                  "text": "Zalify 帮助品牌更快规划活动、生成高转化素材，并把邮件、社媒与广告触点串成清晰的增长流程。"
+                }
+              ]
+            },
+            {
+              "type": "standard-button",
+              "id": "zalify-004",
+              "data": {},
+              "attributes": {
+                "href": "https://www.zalify.com/",
+                "target": "_blank",
+                "align": "center",
+                "background-color": "#2563eb",
+                "color": "#ffffff",
+                "font-family": "Arial, Helvetica, sans-serif",
+                "font-size": "16px",
+                "font-weight": "700",
+                "border-radius": "6px",
+                "padding-top": "14px",
+                "padding-right": "28px",
+                "padding-bottom": "14px",
+                "padding-left": "28px"
+              },
+              "children": [
+                {
+                  "text": "了解 Zalify 如何提升增长效率"
+                }
+              ]
+            },
+            {
+              "type": "standard-paragraph",
+              "id": "zalify-005",
+              "data": {},
+              "attributes": {
+                "font-family": "Arial, Helvetica, sans-serif",
+                "font-size": "1px",
+                "line-height": "1",
+                "color": "#27313f",
+                "align": "left",
+                "padding-top": "0px",
+                "padding-right": "36px",
+                "padding-bottom": "26px",
+                "padding-left": "36px"
+              },
+              "children": [
+                {
+                  "text": " "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "standard-section",
+      "id": "zalify-012",
+      "data": {},
+      "attributes": {
+        "background-color": "#ffffff",
+        "padding-top": "0px",
+        "padding-right": "0px",
+        "padding-bottom": "0px",
+        "padding-left": "0px"
+      },
+      "children": [
+        {
+          "type": "standard-column",
+          "id": "zalify-013",
+          "data": {},
+          "attributes": {
+            "width": "100%"
+          },
+          "children": [
+            {
+              "type": "standard-paragraph",
+              "id": "zalify-008",
+              "data": {},
+              "attributes": {
+                "font-family": "Arial, Helvetica, sans-serif",
+                "font-size": "22px",
+                "line-height": "1.6",
+                "color": "#0f172a",
+                "align": "left",
+                "padding-top": "28px",
+                "padding-right": "36px",
+                "padding-bottom": "12px",
+                "padding-left": "36px"
+              },
+              "children": [
+                {
+                  "text": "为什么选择 Zalify？",
+                  "bold": true,
+                  "color": "#0f172a",
+                  "fontSize": "22px"
+                }
+              ]
+            },
+            {
+              "type": "standard-paragraph",
+              "id": "zalify-009",
+              "data": {},
+              "attributes": {
+                "font-family": "Arial, Helvetica, sans-serif",
+                "font-size": "16px",
+                "line-height": "1.6",
+                "color": "#27313f",
+                "align": "left",
+                "padding-top": "0px",
+                "padding-right": "36px",
+                "padding-bottom": "10px",
+                "padding-left": "36px"
+              },
+              "children": [
+                {
+                  "text": "• 更快启动营销活动："
+                },
+                {
+                  "text": "从产品卖点、目标人群到渠道内容，一站式梳理执行方向。"
+                }
+              ]
+            },
+            {
+              "type": "standard-paragraph",
+              "id": "zalify-010",
+              "data": {},
+              "attributes": {
+                "font-family": "Arial, Helvetica, sans-serif",
+                "font-size": "16px",
+                "line-height": "1.6",
+                "color": "#27313f",
+                "align": "left",
+                "padding-top": "0px",
+                "padding-right": "36px",
+                "padding-bottom": "10px",
+                "padding-left": "36px"
+              },
+              "children": [
+                {
+                  "text": "• 更贴近转化的内容："
+                },
+                {
+                  "text": "围绕品牌语气与用户场景，生成适合邮件、落地页和广告的营销文案。"
+                }
+              ]
+            },
+            {
+              "type": "standard-paragraph",
+              "id": "zalify-011",
+              "data": {},
+              "attributes": {
+                "font-family": "Arial, Helvetica, sans-serif",
+                "font-size": "16px",
+                "line-height": "1.6",
+                "color": "#27313f",
+                "align": "left",
+                "padding-top": "0px",
+                "padding-right": "36px",
+                "padding-bottom": "20px",
+                "padding-left": "36px"
+              },
+              "children": [
+                {
+                  "text": "• 更清晰的数据闭环："
+                },
+                {
+                  "text": "让团队把创意、投放和复盘放在同一套增长节奏里。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "standard-section",
+      "id": "zalify-018",
+      "data": {},
+      "attributes": {
+        "background-color": "#f8fafc",
+        "padding-top": "0px",
+        "padding-right": "0px",
+        "padding-bottom": "0px",
+        "padding-left": "0px"
+      },
+      "children": [
+        {
+          "type": "standard-column",
+          "id": "zalify-019",
+          "data": {},
+          "attributes": {
+            "width": "100%"
+          },
+          "children": [
+            {
+              "type": "standard-paragraph",
+              "id": "zalify-014",
+              "data": {},
+              "attributes": {
+                "font-family": "Arial, Helvetica, sans-serif",
+                "font-size": "22px",
+                "line-height": "1.6",
+                "color": "#0f172a",
+                "align": "center",
+                "padding-top": "28px",
+                "padding-right": "36px",
+                "padding-bottom": "12px",
+                "padding-left": "36px"
+              },
+              "children": [
+                {
+                  "text": "给你的客户一个更明确的下一步",
+                  "bold": true,
+                  "color": "#0f172a",
+                  "fontSize": "22px"
+                }
+              ]
+            },
+            {
+              "type": "standard-paragraph",
+              "id": "zalify-015",
+              "data": {},
+              "attributes": {
+                "font-family": "Arial, Helvetica, sans-serif",
+                "font-size": "16px",
+                "line-height": "1.6",
+                "color": "#475569",
+                "align": "center",
+                "padding-top": "0px",
+                "padding-right": "36px",
+                "padding-bottom": "22px",
+                "padding-left": "36px"
+              },
+              "children": [
+                {
+                  "text": "无论是新品发布、节日促销，还是日常留存，Zalify 都能帮助团队缩短从想法到上线的时间。"
+                }
+              ]
+            },
+            {
+              "type": "standard-button",
+              "id": "zalify-016",
+              "data": {},
+              "attributes": {
+                "href": "https://www.zalify.com/",
+                "target": "_blank",
+                "align": "center",
+                "background-color": "#0f172a",
+                "color": "#ffffff",
+                "font-family": "Arial, Helvetica, sans-serif",
+                "font-size": "16px",
+                "font-weight": "700",
+                "border-radius": "6px",
+                "padding-top": "14px",
+                "padding-right": "28px",
+                "padding-bottom": "14px",
+                "padding-left": "28px"
+              },
+              "children": [
+                {
+                  "text": "立即访问官网"
+                }
+              ]
+            },
+            {
+              "type": "standard-paragraph",
+              "id": "zalify-017",
+              "data": {},
+              "attributes": {
+                "font-family": "Arial, Helvetica, sans-serif",
+                "font-size": "1px",
+                "line-height": "1",
+                "color": "#27313f",
+                "align": "left",
+                "padding-top": "0px",
+                "padding-right": "36px",
+                "padding-bottom": "30px",
+                "padding-left": "36px"
+              },
+              "children": [
+                {
+                  "text": " "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "standard-section",
+      "id": "zalify-022",
+      "data": {},
+      "attributes": {
+        "background-color": "#eef3f8",
+        "padding-top": "0px",
+        "padding-right": "0px",
+        "padding-bottom": "0px",
+        "padding-left": "0px"
+      },
+      "children": [
+        {
+          "type": "standard-column",
+          "id": "zalify-023",
+          "data": {},
+          "attributes": {
+            "width": "100%"
+          },
+          "children": [
+            {
+              "type": "standard-paragraph",
+              "id": "zalify-020",
+              "data": {},
+              "attributes": {
+                "font-family": "Arial, Helvetica, sans-serif",
+                "font-size": "13px",
+                "line-height": "1.6",
+                "color": "#64748b",
+                "align": "center",
+                "padding-top": "22px",
+                "padding-right": "36px",
+                "padding-bottom": "6px",
+                "padding-left": "36px"
+              },
+              "children": [
+                {
+                  "text": "Zalify | 营销增长解决方案"
+                }
+              ]
+            },
+            {
+              "type": "standard-paragraph",
+              "id": "zalify-021",
+              "data": {},
+              "attributes": {
+                "font-family": "Arial, Helvetica, sans-serif",
+                "font-size": "12px",
+                "line-height": "1.6",
+                "color": "#94a3b8",
+                "align": "center",
+                "padding-top": "0px",
+                "padding-right": "36px",
+                "padding-bottom": "24px",
+                "padding-left": "36px"
+              },
+              "children": [
+                {
+                  "text": "你收到这封邮件，是因为你关注营销效率与业务增长。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
