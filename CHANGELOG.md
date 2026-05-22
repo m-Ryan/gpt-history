@@ -10,3 +10,4 @@
 - Updated the FunnyFuzzy email with a Christmas theme, festive red/green palette, holiday copy, seasonal CTAs, and winter pet imagery.
 - Refined the Christmas email with a more restrained premium palette, softer neutrals, deeper brand accents, and calmer CTA styling.
 - Clarified the product showcase with stronger product names, deal pricing, and individual shop buttons.
+- Brightened the Christmas email with a livelier coral, mint, and spruce palette, rounded CTAs, and more energetic professional styling.
