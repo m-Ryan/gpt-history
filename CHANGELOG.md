@@ -9,3 +9,5 @@
 - Reworked the Zalify email to follow the referenced layout with a teal banner, intro copy, two feature rows, and a clearer final CTA.
 
 - Updated the Zalify email to more closely follow the referenced clean template with a teal banner, concise intro, feature-focused content, and stronger CTAs.
+
+- Changed the Zalify email brand palette from teal to a yellow-green theme.
