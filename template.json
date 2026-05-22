@@ -53,7 +53,7 @@
               "attributes": {
                 "align": "left",
                 "color": "#ffffff",
-                "font-size": "28px",
+                "font-size": "30px",
                 "font-weight": "700",
                 "line-height": "1.25",
                 "padding-top": "0px",
@@ -63,7 +63,7 @@
               },
               "children": [
                 {
-                  "text": "用更聪明的方式推动业务增长"
+                  "text": "限时提升您的营销转化效率"
                 }
               ]
             },
@@ -72,7 +72,7 @@
               "data": {},
               "attributes": {
                 "align": "left",
-                "color": "#cbd5e1",
+                "color": "#dbeafe",
                 "font-size": "15px",
                 "line-height": "1.7",
                 "padding-top": "0px",
@@ -82,7 +82,7 @@
               },
               "children": [
                 {
-                  "text": "Zalify 帮助团队把客户触达、营销转化与增长运营连接起来，让每一次沟通都更清晰、更高效。"
+                  "text": "用 Zalify 统一管理线索、触达和转化流程，把分散运营动作变成可追踪、可优化的增长闭环。"
                 }
               ]
             }
@@ -132,7 +132,7 @@
               "data": {},
               "attributes": {
                 "align": "left",
-                "color": "#374151",
+                "color": "#1f2937",
                 "font-size": "16px",
                 "line-height": "1.7",
                 "padding-top": "0px",
@@ -142,7 +142,7 @@
               },
               "children": [
                 {
-                  "text": "如果您的团队正在寻找一种更轻量、更聚焦结果的方式来管理线上增长，Zalify 可以成为一个值得了解的选择。它围绕业务目标组织关键流程，帮助您更快看清机会、跟进客户并提升转化效率。"
+                  "text": "如果您正在为获客成本上升、跟进不及时或转化数据分散而困扰，现在可以先从 Zalify 开始优化关键营销链路。我们帮助团队更快识别高意向客户、自动推进触达节奏，并用清晰数据找到下一步增长机会。"
                 }
               ]
             },
@@ -162,7 +162,7 @@
               },
               "children": [
                 {
-                  "text": "为什么选择 Zalify？"
+                  "text": "现在开始，您可以获得："
                 }
               ]
             },
@@ -171,9 +171,9 @@
               "data": {},
               "attributes": {
                 "align": "left",
-                "color": "#374151",
+                "color": "#1f2937",
                 "font-size": "15px",
-                "line-height": "1.8",
+                "line-height": "1.85",
                 "padding-top": "0px",
                 "padding-right": "32px",
                 "padding-bottom": "18px",
@@ -181,7 +181,7 @@
               },
               "children": [
                 {
-                  "text": "• 集中管理增长线索，减少信息分散\n• 优化客户触达节奏，让沟通更及时\n• 用清晰的数据反馈支持下一步决策"
+                  "text": "• 线索集中沉淀，避免潜在客户在多渠道中流失\n• 自动化触达与跟进提醒，缩短成交路径\n• 转化数据一目了然，快速定位高回报动作\n• 限时体验专属方案，适合正在扩张的团队快速试用"
                 }
               ]
             },
@@ -192,7 +192,7 @@
                 "align": "left",
                 "href": "https://www.zalify.com",
                 "target": "_blank",
-                "background-color": "#2563eb",
+                "background-color": "#16a34a",
                 "color": "#ffffff",
                 "font-size": "16px",
                 "font-weight": "700",
@@ -205,7 +205,7 @@
               },
               "children": [
                 {
-                  "text": "访问 Zalify 官网"
+                  "text": "立即领取专属体验"
                 }
               ]
             },
@@ -224,7 +224,7 @@
               },
               "children": [
                 {
-                  "text": "欢迎点击上方按钮了解更多，也可以直接回复此邮件，我们会根据您的业务需求提供更具体的建议。"
+                  "text": "点击按钮访问官网，了解 Zalify 如何帮您把营销动作转化为更稳定的增长结果。"
                 }
               ]
             }
